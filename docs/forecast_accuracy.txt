@@ -1,0 +1,16 @@
+RetailPulse Forecast Accuracy (MAPE %) by Category
+==================================================
+Apparel: 17.46%
+Beverages: 19.86%
+Electronics: 16.34%
+Grocery: 12.36%
+Home & Kitchen: 15.55%
+Personal Care: 15.41%
+Stationery: 20.09%
+
+Average MAPE: 16.72%
+
+Note: MAPE (Mean Absolute Percentage Error) measures forecast accuracy.
+Lower is better. Under 20% is considered good for retail demand forecasting;
+under 10% is excellent. Category-level forecasts are more stable than
+SKU-level forecasts due to demand pooling across products.

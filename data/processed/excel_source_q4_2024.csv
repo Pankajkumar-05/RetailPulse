@@ -1,0 +1,1156 @@
+store_name,region,store_type,category,month_name,month,revenue,cost,units,transactions
+RetailPulse Central #026,Central,Metro,Apparel,October,10,783804.34,524230.71,531,48
+RetailPulse Central #026,Central,Metro,Beverages,October,10,56142.17,48916.590000000004,344,59
+RetailPulse Central #026,Central,Metro,Electronics,October,10,9648816.88,8307297.51,719,55
+RetailPulse Central #026,Central,Metro,Grocery,October,10,50382.31,43883.01,200,35
+RetailPulse Central #026,Central,Metro,Home & Kitchen,October,10,762193.37,591122.14,311,54
+RetailPulse Central #026,Central,Metro,Personal Care,October,10,112293.59,82226.8,270,43
+RetailPulse Central #026,Central,Metro,Stationery,October,10,71373.34,56343.62,272,50
+RetailPulse Central #026,Central,Metro,Apparel,November,11,537673.0,356595.1,372,39
+RetailPulse Central #026,Central,Metro,Beverages,November,11,41242.18,35788.22,304,53
+RetailPulse Central #026,Central,Metro,Electronics,November,11,8930547.85,7903822.27,739,49
+RetailPulse Central #026,Central,Metro,Grocery,November,11,65859.53,59228.03,294,54
+RetailPulse Central #026,Central,Metro,Home & Kitchen,November,11,652010.22,509389.38,239,48
+RetailPulse Central #026,Central,Metro,Personal Care,November,11,100521.47,71662.34,261,44
+RetailPulse Central #026,Central,Metro,Stationery,November,11,67014.21,54852.89,267,40
+RetailPulse Central #026,Central,Metro,Apparel,December,12,481648.02999999997,319664.0,321,55
+RetailPulse Central #026,Central,Metro,Beverages,December,12,36395.1,30648.59,219,42
+RetailPulse Central #026,Central,Metro,Electronics,December,12,4094750.98,3566519.08,331,55
+RetailPulse Central #026,Central,Metro,Grocery,December,12,87722.62,79005.69,375,64
+RetailPulse Central #026,Central,Metro,Home & Kitchen,December,12,613761.7,473874.25,261,42
+RetailPulse Central #026,Central,Metro,Personal Care,December,12,103341.18,78409.5,263,43
+RetailPulse Central #026,Central,Metro,Stationery,December,12,66777.67,55041.55,268,49
+RetailPulse Central #033,Central,Suburban,Apparel,October,10,650318.51,430875.72000000003,450,59
+RetailPulse Central #033,Central,Suburban,Beverages,October,10,28729.21,25054.02,180,42
+RetailPulse Central #033,Central,Suburban,Electronics,October,10,6414156.21,5481373.63,502,56
+RetailPulse Central #033,Central,Suburban,Grocery,October,10,44324.4,40272.52,180,48
+RetailPulse Central #033,Central,Suburban,Home & Kitchen,October,10,329526.43,261436.74,177,49
+RetailPulse Central #033,Central,Suburban,Personal Care,October,10,83619.07,62557.71,218,55
+RetailPulse Central #033,Central,Suburban,Stationery,October,10,47910.090000000004,38474.69,186,48
+RetailPulse Central #033,Central,Suburban,Apparel,November,11,564702.26,372411.92,317,42
+RetailPulse Central #033,Central,Suburban,Beverages,November,11,30444.0,26448.63,211,50
+RetailPulse Central #033,Central,Suburban,Electronics,November,11,5349939.55,4541134.65,416,50
+RetailPulse Central #033,Central,Suburban,Grocery,November,11,46757.770000000004,41979.24,185,49
+RetailPulse Central #033,Central,Suburban,Home & Kitchen,November,11,456105.79,358816.8,208,55
+RetailPulse Central #033,Central,Suburban,Personal Care,November,11,89377.84,67406.5,212,59
+RetailPulse Central #033,Central,Suburban,Stationery,November,11,52716.12,43857.35,180,42
+RetailPulse Central #033,Central,Suburban,Apparel,December,12,331309.79,224702.25,209,52
+RetailPulse Central #033,Central,Suburban,Beverages,December,12,30058.22,25632.53,217,53
+RetailPulse Central #033,Central,Suburban,Electronics,December,12,2162236.49,1794547.05,173,38
+RetailPulse Central #033,Central,Suburban,Grocery,December,12,47423.06,42760.45,201,50
+RetailPulse Central #033,Central,Suburban,Home & Kitchen,December,12,532004.2,414021.04,211,55
+RetailPulse Central #033,Central,Suburban,Personal Care,December,12,81341.83,60440.86,194,42
+RetailPulse Central #033,Central,Suburban,Stationery,December,12,44887.83,36003.73,187,45
+RetailPulse Central #034,Central,Suburban,Apparel,October,10,350765.51,230256.03,248,46
+RetailPulse Central #034,Central,Suburban,Beverages,October,10,24051.04,21181.93,162,48
+RetailPulse Central #034,Central,Suburban,Electronics,October,10,4830065.47,4335748.71,396,57
+RetailPulse Central #034,Central,Suburban,Grocery,October,10,30165.28,26515.58,121,44
+RetailPulse Central #034,Central,Suburban,Home & Kitchen,October,10,279417.16,222221.38,120,43
+RetailPulse Central #034,Central,Suburban,Personal Care,October,10,64574.18,50911.55,162,49
+RetailPulse Central #034,Central,Suburban,Stationery,October,10,41835.75,33564.659999999996,146,46
+RetailPulse Central #034,Central,Suburban,Apparel,November,11,567876.37,375926.16,328,56
+RetailPulse Central #034,Central,Suburban,Beverages,November,11,18316.04,15775.55,116,37
+RetailPulse Central #034,Central,Suburban,Electronics,November,11,5239759.94,4462235.76,381,52
+RetailPulse Central #034,Central,Suburban,Grocery,November,11,35927.9,32447.09,149,51
+RetailPulse Central #034,Central,Suburban,Home & Kitchen,November,11,257553.33,200227.98,110,37
+RetailPulse Central #034,Central,Suburban,Personal Care,November,11,69766.53,49814.71,138,46
+RetailPulse Central #034,Central,Suburban,Stationery,November,11,44873.98,36890.46,170,48
+RetailPulse Central #034,Central,Suburban,Apparel,December,12,303117.41,201545.85,177,55
+RetailPulse Central #034,Central,Suburban,Beverages,December,12,24687.68,21780.32,189,62
+RetailPulse Central #034,Central,Suburban,Electronics,December,12,1935721.24,1648265.05,143,50
+RetailPulse Central #034,Central,Suburban,Grocery,December,12,44356.78,38697.21,177,52
+RetailPulse Central #034,Central,Suburban,Home & Kitchen,December,12,380133.24,297789.02,141,45
+RetailPulse Central #034,Central,Suburban,Personal Care,December,12,53996.95,39366.88,137,45
+RetailPulse Central #034,Central,Suburban,Stationery,December,12,49501.9,40169.86,199,64
+RetailPulse Central #039,Central,Suburban,Apparel,October,10,551004.28,365644.35,359,55
+RetailPulse Central #039,Central,Suburban,Beverages,October,10,26023.86,22775.52,178,46
+RetailPulse Central #039,Central,Suburban,Electronics,October,10,4895466.45,4170276.54,401,54
+RetailPulse Central #039,Central,Suburban,Grocery,October,10,28173.76,26652.22,135,37
+RetailPulse Central #039,Central,Suburban,Home & Kitchen,October,10,423637.5,336333.63,159,46
+RetailPulse Central #039,Central,Suburban,Personal Care,October,10,68293.06,48517.77,163,44
+RetailPulse Central #039,Central,Suburban,Stationery,October,10,49481.53,40578.42,224,56
+RetailPulse Central #039,Central,Suburban,Apparel,November,11,461190.54,313085.42,315,50
+RetailPulse Central #039,Central,Suburban,Beverages,November,11,24393.52,21267.5,178,56
+RetailPulse Central #039,Central,Suburban,Electronics,November,11,4808012.57,4154959.61,386,45
+RetailPulse Central #039,Central,Suburban,Grocery,November,11,43382.46,38733.9,180,51
+RetailPulse Central #039,Central,Suburban,Home & Kitchen,November,11,517603.59,411639.8,192,50
+RetailPulse Central #039,Central,Suburban,Personal Care,November,11,70088.0,51870.73,178,50
+RetailPulse Central #039,Central,Suburban,Stationery,November,11,59537.18,47060.56,197,53
+RetailPulse Central #039,Central,Suburban,Apparel,December,12,290919.44,197478.86,185,49
+RetailPulse Central #039,Central,Suburban,Beverages,December,12,24463.81,21384.89,188,55
+RetailPulse Central #039,Central,Suburban,Electronics,December,12,2587221.12,2226486.36,188,53
+RetailPulse Central #039,Central,Suburban,Grocery,December,12,44916.58,40073.5,200,59
+RetailPulse Central #039,Central,Suburban,Home & Kitchen,December,12,430727.82,341701.57,194,57
+RetailPulse Central #039,Central,Suburban,Personal Care,December,12,85625.93000000001,63329.39,220,60
+RetailPulse Central #039,Central,Suburban,Stationery,December,12,35636.44,28365.88,144,43
+RetailPulse Central #041,Central,Rural,Apparel,October,10,408139.31,275483.29,247,47
+RetailPulse Central #041,Central,Rural,Beverages,October,10,20859.22,18157.19,132,41
+RetailPulse Central #041,Central,Rural,Electronics,October,10,3382837.0500000003,2860710.48,256,46
+RetailPulse Central #041,Central,Rural,Grocery,October,10,31183.3,27162.3,129,49
+RetailPulse Central #041,Central,Rural,Home & Kitchen,October,10,362869.45,280480.43,147,60
+RetailPulse Central #041,Central,Rural,Personal Care,October,10,54673.76,40932.55,152,48
+RetailPulse Central #041,Central,Rural,Stationery,October,10,31675.62,25803.44,115,44
+RetailPulse Central #041,Central,Rural,Apparel,November,11,389224.94,250732.69,223,42
+RetailPulse Central #041,Central,Rural,Beverages,November,11,22040.73,18728.98,139,52
+RetailPulse Central #041,Central,Rural,Electronics,November,11,4648667.64,3929787.62,353,49
+RetailPulse Central #041,Central,Rural,Grocery,November,11,36041.83,31953.89,151,48
+RetailPulse Central #041,Central,Rural,Home & Kitchen,November,11,359060.04,273031.14,147,51
+RetailPulse Central #041,Central,Rural,Personal Care,November,11,72852.31,53764.08,155,53
+RetailPulse Central #041,Central,Rural,Stationery,November,11,29155.99,23483.4,100,34
+RetailPulse Central #041,Central,Rural,Apparel,December,12,254182.8,170144.82,169,52
+RetailPulse Central #041,Central,Rural,Beverages,December,12,12859.61,11207.11,111,40
+RetailPulse Central #041,Central,Rural,Electronics,December,12,1893713.26,1586267.98,139,43
+RetailPulse Central #041,Central,Rural,Grocery,December,12,38227.05,33447.12,164,53
+RetailPulse Central #041,Central,Rural,Home & Kitchen,December,12,405190.73,323690.5,140,45
+RetailPulse Central #041,Central,Rural,Personal Care,December,12,53378.69,39246.52,139,48
+RetailPulse Central #041,Central,Rural,Stationery,December,12,30582.42,24762.09,127,53
+RetailPulse Central #043,Central,Urban,Apparel,October,10,732344.73,506029.54,475,51
+RetailPulse Central #043,Central,Urban,Beverages,October,10,32086.77,27645.8,201,41
+RetailPulse Central #043,Central,Urban,Electronics,October,10,6642646.7299999995,5801981.11,488,47
+RetailPulse Central #043,Central,Urban,Grocery,October,10,59979.22,52126.67,237,50
+RetailPulse Central #043,Central,Urban,Home & Kitchen,October,10,732873.25,580803.34,284,54
+RetailPulse Central #043,Central,Urban,Personal Care,October,10,100685.51,74031.85,261,52
+RetailPulse Central #043,Central,Urban,Stationery,October,10,52686.69,43880.77,242,51
+RetailPulse Central #043,Central,Urban,Apparel,November,11,588160.3,395777.67,403,46
+RetailPulse Central #043,Central,Urban,Beverages,November,11,35714.96,30807.89,237,46
+RetailPulse Central #043,Central,Urban,Electronics,November,11,4443744.98,3808239.76,369,35
+RetailPulse Central #043,Central,Urban,Grocery,November,11,47528.78,41766.86,214,41
+RetailPulse Central #043,Central,Urban,Home & Kitchen,November,11,615720.79,480649.25,259,51
+RetailPulse Central #043,Central,Urban,Personal Care,November,11,71738.66,53087.04,174,33
+RetailPulse Central #043,Central,Urban,Stationery,November,11,72505.13,59095.45,272,51
+RetailPulse Central #043,Central,Urban,Apparel,December,12,521799.17,349348.72,313,57
+RetailPulse Central #043,Central,Urban,Beverages,December,12,44647.09,39176.82,279,56
+RetailPulse Central #043,Central,Urban,Electronics,December,12,2723112.3,2329003.5,225,49
+RetailPulse Central #043,Central,Urban,Grocery,December,12,61284.01,55498.229999999996,272,53
+RetailPulse Central #043,Central,Urban,Home & Kitchen,December,12,656611.81,522570.95,290,54
+RetailPulse Central #043,Central,Urban,Personal Care,December,12,95790.23,70385.41,229,45
+RetailPulse Central #043,Central,Urban,Stationery,December,12,52614.39,42619.8,250,54
+RetailPulse Central #045,Central,Suburban,Apparel,October,10,551417.83,364985.15,365,53
+RetailPulse Central #045,Central,Suburban,Beverages,October,10,26243.1,23080.37,183,48
+RetailPulse Central #045,Central,Suburban,Electronics,October,10,6989852.8,5897571.25,472,54
+RetailPulse Central #045,Central,Suburban,Grocery,October,10,34753.87,30829.15,176,54
+RetailPulse Central #045,Central,Suburban,Home & Kitchen,October,10,398485.26,311917.66,163,48
+RetailPulse Central #045,Central,Suburban,Personal Care,October,10,71495.29,51902.58,165,43
+RetailPulse Central #045,Central,Suburban,Stationery,October,10,57259.16,46896.35,190,55
+RetailPulse Central #045,Central,Suburban,Apparel,November,11,416919.91,281374.2,259,41
+RetailPulse Central #045,Central,Suburban,Beverages,November,11,23020.38,19877.19,158,48
+RetailPulse Central #045,Central,Suburban,Electronics,November,11,5861649.61,5102059.41,479,56
+RetailPulse Central #045,Central,Suburban,Grocery,November,11,41426.52,36625.68,169,48
+RetailPulse Central #045,Central,Suburban,Home & Kitchen,November,11,308850.27,242898.43,123,34
+RetailPulse Central #045,Central,Suburban,Personal Care,November,11,53798.09,38573.8,118,33
+RetailPulse Central #045,Central,Suburban,Stationery,November,11,34551.93,28747.43,139,39
+RetailPulse Central #045,Central,Suburban,Apparel,December,12,241963.25,168390.25,142,44
+RetailPulse Central #045,Central,Suburban,Beverages,December,12,27802.24,24516.24,201,56
+RetailPulse Central #045,Central,Suburban,Electronics,December,12,2728154.62,2284262.94,207,56
+RetailPulse Central #045,Central,Suburban,Grocery,December,12,42178.96,37058.97,176,50
+RetailPulse Central #045,Central,Suburban,Home & Kitchen,December,12,548318.99,419091.33,179,48
+RetailPulse Central #045,Central,Suburban,Personal Care,December,12,63204.0,46589.03,128,38
+RetailPulse Central #045,Central,Suburban,Stationery,December,12,55992.76,45386.16,206,58
+RetailPulse Central #055,Central,Suburban,Apparel,October,10,566428.58,376767.91,381,59
+RetailPulse Central #055,Central,Suburban,Beverages,October,10,26913.6,23772.65,163,49
+RetailPulse Central #055,Central,Suburban,Electronics,October,10,5434542.4799999995,4643677.55,401,52
+RetailPulse Central #055,Central,Suburban,Grocery,October,10,48102.38,42737.36,207,58
+RetailPulse Central #055,Central,Suburban,Home & Kitchen,October,10,418893.05,320501.91,161,47
+RetailPulse Central #055,Central,Suburban,Personal Care,October,10,78185.67,57792.68,163,44
+RetailPulse Central #055,Central,Suburban,Stationery,October,10,36858.51,29238.69,141,41
+RetailPulse Central #055,Central,Suburban,Apparel,November,11,520632.0,351888.55,329,48
+RetailPulse Central #055,Central,Suburban,Beverages,November,11,23003.17,20086.99,142,40
+RetailPulse Central #055,Central,Suburban,Electronics,November,11,4181306.01,3530873.77,308,37
+RetailPulse Central #055,Central,Suburban,Grocery,November,11,37240.47,34178.340000000004,148,43
+RetailPulse Central #055,Central,Suburban,Home & Kitchen,November,11,548905.35,430358.59,195,53
+RetailPulse Central #055,Central,Suburban,Personal Care,November,11,83309.89,61933.3,186,49
+RetailPulse Central #055,Central,Suburban,Stationery,November,11,44194.86,36181.08,181,50
+RetailPulse Central #055,Central,Suburban,Apparel,December,12,293339.18,188558.32,174,51
+RetailPulse Central #055,Central,Suburban,Beverages,December,12,18411.53,16210.31,137,44
+RetailPulse Central #055,Central,Suburban,Electronics,December,12,2037314.91,1738572.16,159,45
+RetailPulse Central #055,Central,Suburban,Grocery,December,12,34610.159999999996,31756.62,168,56
+RetailPulse Central #055,Central,Suburban,Home & Kitchen,December,12,393903.44,318065.74,158,40
+RetailPulse Central #055,Central,Suburban,Personal Care,December,12,73860.59,55159.18,169,50
+RetailPulse Central #055,Central,Suburban,Stationery,December,12,51289.15,41847.17,187,50
+RetailPulse East #005,East,Suburban,Apparel,October,10,574735.13,375628.45,344,46
+RetailPulse East #005,East,Suburban,Beverages,October,10,20287.18,17755.95,140,44
+RetailPulse East #005,East,Suburban,Electronics,October,10,5792175.36,4949303.02,390,45
+RetailPulse East #005,East,Suburban,Grocery,October,10,40774.08,35938.05,182,51
+RetailPulse East #005,East,Suburban,Home & Kitchen,October,10,513536.89,412310.97000000003,199,47
+RetailPulse East #005,East,Suburban,Personal Care,October,10,98900.59,72157.92,210,56
+RetailPulse East #005,East,Suburban,Stationery,October,10,27711.81,22129.82,110,34
+RetailPulse East #005,East,Suburban,Apparel,November,11,481885.84,312190.52,315,43
+RetailPulse East #005,East,Suburban,Beverages,November,11,20390.94,17292.8,134,41
+RetailPulse East #005,East,Suburban,Electronics,November,11,4902059.0,4141007.62,419,50
+RetailPulse East #005,East,Suburban,Grocery,November,11,51111.94,46837.95,204,51
+RetailPulse East #005,East,Suburban,Home & Kitchen,November,11,393679.31,310641.78,162,45
+RetailPulse East #005,East,Suburban,Personal Care,November,11,55150.42,39836.47,146,39
+RetailPulse East #005,East,Suburban,Stationery,November,11,57371.38,45997.97,226,54
+RetailPulse East #005,East,Suburban,Apparel,December,12,329435.32,222076.06,195,49
+RetailPulse East #005,East,Suburban,Beverages,December,12,24415.32,21342.8,164,43
+RetailPulse East #005,East,Suburban,Electronics,December,12,3062058.41,2659743.46,233,57
+RetailPulse East #005,East,Suburban,Grocery,December,12,54331.55,47529.2,200,45
+RetailPulse East #005,East,Suburban,Home & Kitchen,December,12,620448.63,488950.84,235,64
+RetailPulse East #005,East,Suburban,Personal Care,December,12,45514.37,32686.2,123,37
+RetailPulse East #005,East,Suburban,Stationery,December,12,50616.36,40927.28,223,58
+RetailPulse East #006,East,Metro,Apparel,October,10,919655.21,601036.25,530,51
+RetailPulse East #006,East,Metro,Beverages,October,10,43829.71,38556.41,275,50
+RetailPulse East #006,East,Metro,Electronics,October,10,8255680.92,6964164.3100000005,637,48
+RetailPulse East #006,East,Metro,Grocery,October,10,76109.98,66355.9,288,51
+RetailPulse East #006,East,Metro,Home & Kitchen,October,10,833984.98,661928.13,274,52
+RetailPulse East #006,East,Metro,Personal Care,October,10,114739.48,83079.85,254,54
+RetailPulse East #006,East,Metro,Stationery,October,10,70827.68,58990.38,277,46
+RetailPulse East #006,East,Metro,Apparel,November,11,705162.14,465626.88,446,46
+RetailPulse East #006,East,Metro,Beverages,November,11,43080.14,36988.83,302,58
+RetailPulse East #006,East,Metro,Electronics,November,11,6927877.18,5913612.62,582,47
+RetailPulse East #006,East,Metro,Grocery,November,11,58967.88,53189.34,234,43
+RetailPulse East #006,East,Metro,Home & Kitchen,November,11,596497.33,469032.26,275,46
+RetailPulse East #006,East,Metro,Personal Care,November,11,104575.85,77718.33,271,49
+RetailPulse East #006,East,Metro,Stationery,November,11,54072.020000000004,44687.41,228,43
+RetailPulse East #006,East,Metro,Apparel,December,12,622050.61,404084.04,350,56
+RetailPulse East #006,East,Metro,Beverages,December,12,53658.58,45806.45,341,57
+RetailPulse East #006,East,Metro,Electronics,December,12,3914533.79,3341060.78,276,51
+RetailPulse East #006,East,Metro,Grocery,December,12,71924.49,63064.520000000004,273,49
+RetailPulse East #006,East,Metro,Home & Kitchen,December,12,859929.3,678472.92,303,59
+RetailPulse East #006,East,Metro,Personal Care,December,12,94724.39,69037.64,227,46
+RetailPulse East #006,East,Metro,Stationery,December,12,93245.16,76708.62,337,54
+RetailPulse East #009,East,Metro,Apparel,October,10,1078859.74,710164.1900000001,620,47
+RetailPulse East #009,East,Metro,Beverages,October,10,41482.01,35983.28,259,42
+RetailPulse East #009,East,Metro,Electronics,October,10,8242249.24,6887525.65,596,37
+RetailPulse East #009,East,Metro,Grocery,October,10,57300.83,50874.23,235,38
+RetailPulse East #009,East,Metro,Home & Kitchen,October,10,1004975.99,794420.35,386,52
+RetailPulse East #009,East,Metro,Personal Care,October,10,115053.06,85525.24,296,47
+RetailPulse East #009,East,Metro,Stationery,October,10,75460.31,59727.409999999996,290,39
+RetailPulse East #009,East,Metro,Apparel,November,11,876338.66,577498.95,560,48
+RetailPulse East #009,East,Metro,Beverages,November,11,62199.57,54745.0,366,51
+RetailPulse East #009,East,Metro,Electronics,November,11,8311696.2,7087369.2700000005,732,46
+RetailPulse East #009,East,Metro,Grocery,November,11,95627.65,85787.95,365,48
+RetailPulse East #009,East,Metro,Home & Kitchen,November,11,1089503.57,875016.52,405,52
+RetailPulse East #009,East,Metro,Personal Care,November,11,158587.47,114319.42,373,47
+RetailPulse East #009,East,Metro,Stationery,November,11,64476.29,52599.31,271,39
+RetailPulse East #009,East,Metro,Apparel,December,12,475912.02,315184.27999999997,326,46
+RetailPulse East #009,East,Metro,Beverages,December,12,46454.53,39190.99,308,42
+RetailPulse East #009,East,Metro,Electronics,December,12,3252872.46,2843097.06,287,42
+RetailPulse East #009,East,Metro,Grocery,December,12,94253.18000000001,83441.9,439,57
+RetailPulse East #009,East,Metro,Home & Kitchen,December,12,1227394.54,950151.92,408,54
+RetailPulse East #009,East,Metro,Personal Care,December,12,155653.06,116880.54000000001,367,52
+RetailPulse East #009,East,Metro,Stationery,December,12,111772.03,89508.39,391,54
+RetailPulse East #010,East,Rural,Apparel,October,10,425779.01,288935.59,257,61
+RetailPulse East #010,East,Rural,Beverages,October,10,14364.8,12745.01,92,44
+RetailPulse East #010,East,Rural,Electronics,October,10,3315212.89,2848028.2399999998,239,52
+RetailPulse East #010,East,Rural,Grocery,October,10,21676.98,19392.41,89,42
+RetailPulse East #010,East,Rural,Home & Kitchen,October,10,344058.43,275659.53,121,55
+RetailPulse East #010,East,Rural,Personal Care,October,10,43961.83,33248.58,104,54
+RetailPulse East #010,East,Rural,Stationery,October,10,22493.6,17978.14,98,46
+RetailPulse East #010,East,Rural,Apparel,November,11,340822.51,223260.88,209,49
+RetailPulse East #010,East,Rural,Beverages,November,11,14038.23,12324.96,96,44
+RetailPulse East #010,East,Rural,Electronics,November,11,3010222.27,2519646.35,211,48
+RetailPulse East #010,East,Rural,Grocery,November,11,23229.15,20736.56,90,44
+RetailPulse East #010,East,Rural,Home & Kitchen,November,11,374888.5,289836.5,123,56
+RetailPulse East #010,East,Rural,Personal Care,November,11,31009.93,23613.94,73,33
+RetailPulse East #010,East,Rural,Stationery,November,11,29397.94,23463.53,116,57
+RetailPulse East #010,East,Rural,Apparel,December,12,149168.65,96033.87,87,45
+RetailPulse East #010,East,Rural,Beverages,December,12,13286.84,11664.4,91,49
+RetailPulse East #010,East,Rural,Electronics,December,12,1347394.35,1137816.78,105,51
+RetailPulse East #010,East,Rural,Grocery,December,12,25420.16,22944.03,101,48
+RetailPulse East #010,East,Rural,Home & Kitchen,December,12,322141.3,260115.15,124,58
+RetailPulse East #010,East,Rural,Personal Care,December,12,59346.5,42722.08,138,58
+RetailPulse East #010,East,Rural,Stationery,December,12,29666.98,24271.54,124,64
+RetailPulse East #017,East,Urban,Apparel,October,10,618966.61,406453.32,381,51
+RetailPulse East #017,East,Urban,Beverages,October,10,29875.2,26308.27,206,48
+RetailPulse East #017,East,Urban,Electronics,October,10,7054391.96,5967831.11,517,52
+RetailPulse East #017,East,Urban,Grocery,October,10,56627.45,50997.82,235,52
+RetailPulse East #017,East,Urban,Home & Kitchen,October,10,449864.67,357747.56,193,48
+RetailPulse East #017,East,Urban,Personal Care,October,10,90131.42,67032.51,213,55
+RetailPulse East #017,East,Urban,Stationery,October,10,54941.3,43499.75,186,40
+RetailPulse East #017,East,Urban,Apparel,November,11,655303.03,436306.26,438,54
+RetailPulse East #017,East,Urban,Beverages,November,11,24349.079999999998,21800.35,174,40
+RetailPulse East #017,East,Urban,Electronics,November,11,4801346.07,4155114.52,354,38
+RetailPulse East #017,East,Urban,Grocery,November,11,50376.22,44526.62,210,49
+RetailPulse East #017,East,Urban,Home & Kitchen,November,11,608111.03,477679.33999999997,236,54
+RetailPulse East #017,East,Urban,Personal Care,November,11,88075.82,64680.770000000004,197,48
+RetailPulse East #017,East,Urban,Stationery,November,11,52761.24,44457.44,219,48
+RetailPulse East #017,East,Urban,Apparel,December,12,255653.63,171157.1,188,46
+RetailPulse East #017,East,Urban,Beverages,December,12,36840.34,31750.27,244,55
+RetailPulse East #017,East,Urban,Electronics,December,12,2885993.18,2472957.2,262,58
+RetailPulse East #017,East,Urban,Grocery,December,12,51812.21,46524.84,233,54
+RetailPulse East #017,East,Urban,Home & Kitchen,December,12,488151.04,378457.47000000003,184,43
+RetailPulse East #017,East,Urban,Personal Care,December,12,115197.78,83311.58,285,58
+RetailPulse East #017,East,Urban,Stationery,December,12,41366.42,33582.97,177,47
+RetailPulse East #020,East,Rural,Apparel,October,10,298512.45,195032.72,168,33
+RetailPulse East #020,East,Rural,Beverages,October,10,19286.5,16773.11,133,55
+RetailPulse East #020,East,Rural,Electronics,October,10,2680804.57,2307360.95,224,43
+RetailPulse East #020,East,Rural,Grocery,October,10,28908.66,25934.95,135,56
+RetailPulse East #020,East,Rural,Home & Kitchen,October,10,243540.59,186598.61000000002,108,43
+RetailPulse East #020,East,Rural,Personal Care,October,10,41614.409999999996,30604.600000000002,96,40
+RetailPulse East #020,East,Rural,Stationery,October,10,30595.8,24311.58,109,44
+RetailPulse East #020,East,Rural,Apparel,November,11,332181.32,227133.42,234,55
+RetailPulse East #020,East,Rural,Beverages,November,11,18713.8,15904.84,118,51
+RetailPulse East #020,East,Rural,Electronics,November,11,2950467.84,2530643.11,241,42
+RetailPulse East #020,East,Rural,Grocery,November,11,21917.65,19260.43,93,37
+RetailPulse East #020,East,Rural,Home & Kitchen,November,11,343869.96,268959.24,140,51
+RetailPulse East #020,East,Rural,Personal Care,November,11,61007.47,45780.82,130,48
+RetailPulse East #020,East,Rural,Stationery,November,11,29323.71,23641.58,114,49
+RetailPulse East #020,East,Rural,Apparel,December,12,178660.74,122754.83,104,40
+RetailPulse East #020,East,Rural,Beverages,December,12,19744.65,17408.25,116,47
+RetailPulse East #020,East,Rural,Electronics,December,12,1849746.3,1555132.11,135,59
+RetailPulse East #020,East,Rural,Grocery,December,12,28702.2,25352.36,110,48
+RetailPulse East #020,East,Rural,Home & Kitchen,December,12,321752.6,254209.01,122,52
+RetailPulse East #020,East,Rural,Personal Care,December,12,48003.42,34851.92,126,53
+RetailPulse East #020,East,Rural,Stationery,December,12,43511.8,35316.07,165,64
+RetailPulse East #028,East,Urban,Apparel,October,10,665546.81,442687.37,405,43
+RetailPulse East #028,East,Urban,Beverages,October,10,39169.24,34065.7,216,39
+RetailPulse East #028,East,Urban,Electronics,October,10,7401172.51,6528914.8,532,39
+RetailPulse East #028,East,Urban,Grocery,October,10,60694.73,53667.0,261,48
+RetailPulse East #028,East,Urban,Home & Kitchen,October,10,630987.14,492198.7,315,56
+RetailPulse East #028,East,Urban,Personal Care,October,10,116777.18,83423.53,279,50
+RetailPulse East #028,East,Urban,Stationery,October,10,43863.99,35307.02,191,34
+RetailPulse East #028,East,Urban,Apparel,November,11,733909.12,486451.60000000003,452,46
+RetailPulse East #028,East,Urban,Beverages,November,11,23225.16,20553.91,170,36
+RetailPulse East #028,East,Urban,Electronics,November,11,7126279.66,6017771.65,554,43
+RetailPulse East #028,East,Urban,Grocery,November,11,57394.85,51214.5,219,41
+RetailPulse East #028,East,Urban,Home & Kitchen,November,11,476764.39,391850.99,198,40
+RetailPulse East #028,East,Urban,Personal Care,November,11,139385.9,101072.09,302,60
+RetailPulse East #028,East,Urban,Stationery,November,11,84409.08,69054.54,263,50
+RetailPulse East #028,East,Urban,Apparel,December,12,404507.39,278519.09,261,46
+RetailPulse East #028,East,Urban,Beverages,December,12,51180.77,44389.72,366,63
+RetailPulse East #028,East,Urban,Electronics,December,12,3565001.08,3051757.69,278,50
+RetailPulse East #028,East,Urban,Grocery,December,12,64139.88,56576.63,249,52
+RetailPulse East #028,East,Urban,Home & Kitchen,December,12,677078.16,542276.14,284,59
+RetailPulse East #028,East,Urban,Personal Care,December,12,130184.06999999999,97135.74,325,61
+RetailPulse East #028,East,Urban,Stationery,December,12,70346.98,56629.06,275,48
+RetailPulse East #035,East,Metro,Apparel,October,10,664901.01,438159.95,402,43
+RetailPulse East #035,East,Metro,Beverages,October,10,47062.63,40984.81,321,54
+RetailPulse East #035,East,Metro,Electronics,October,10,8450617.16,7227128.63,630,49
+RetailPulse East #035,East,Metro,Grocery,October,10,62211.75,55895.65,244,50
+RetailPulse East #035,East,Metro,Home & Kitchen,October,10,482148.32,374850.15,212,37
+RetailPulse East #035,East,Metro,Personal Care,October,10,109454.57,78461.5,281,51
+RetailPulse East #035,East,Metro,Stationery,October,10,72512.45,57967.54,265,50
+RetailPulse East #035,East,Metro,Apparel,November,11,622929.07,418107.07,410,37
+RetailPulse East #035,East,Metro,Beverages,November,11,44501.42,38760.31,266,47
+RetailPulse East #035,East,Metro,Electronics,November,11,6835640.98,5843772.34,636,54
+RetailPulse East #035,East,Metro,Grocery,November,11,58490.17,52474.57,268,44
+RetailPulse East #035,East,Metro,Home & Kitchen,November,11,763228.52,598205.27,252,46
+RetailPulse East #035,East,Metro,Personal Care,November,11,103637.47,78270.33,234,45
+RetailPulse East #035,East,Metro,Stationery,November,11,66113.57,54633.22,276,53
+RetailPulse East #035,East,Metro,Apparel,December,12,510403.85,346542.93,320,54
+RetailPulse East #035,East,Metro,Beverages,December,12,42133.67,36177.67,284,46
+RetailPulse East #035,East,Metro,Electronics,December,12,3796156.0,3231556.01,277,47
+RetailPulse East #035,East,Metro,Grocery,December,12,71372.58,63726.55,296,56
+RetailPulse East #035,East,Metro,Home & Kitchen,December,12,834335.33,662021.34,338,57
+RetailPulse East #035,East,Metro,Personal Care,December,12,128620.6,95295.25,290,57
+RetailPulse East #035,East,Metro,Stationery,December,12,66663.24,54143.33,236,45
+RetailPulse East #036,East,Suburban,Apparel,October,10,486636.54,322596.56,336,52
+RetailPulse East #036,East,Suburban,Beverages,October,10,19897.22,17508.14,158,42
+RetailPulse East #036,East,Suburban,Electronics,October,10,5271775.41,4350644.08,369,44
+RetailPulse East #036,East,Suburban,Grocery,October,10,49062.53,43341.63,188,51
+RetailPulse East #036,East,Suburban,Home & Kitchen,October,10,386571.3,294991.34,177,41
+RetailPulse East #036,East,Suburban,Personal Care,October,10,79164.42,59289.3,194,48
+RetailPulse East #036,East,Suburban,Stationery,October,10,41233.34,33811.15,136,40
+RetailPulse East #036,East,Suburban,Apparel,November,11,560063.58,373590.66,336,48
+RetailPulse East #036,East,Suburban,Beverages,November,11,41375.73,36510.17,246,54
+RetailPulse East #036,East,Suburban,Electronics,November,11,4825497.05,4027990.22,357,41
+RetailPulse East #036,East,Suburban,Grocery,November,11,34574.37,31075.44,163,41
+RetailPulse East #036,East,Suburban,Home & Kitchen,November,11,417399.23,330696.68,174,48
+RetailPulse East #036,East,Suburban,Personal Care,November,11,55709.33,40951.23,132,37
+RetailPulse East #036,East,Suburban,Stationery,November,11,52484.94,41819.35,193,46
+RetailPulse East #036,East,Suburban,Apparel,December,12,261072.32,172400.26,159,44
+RetailPulse East #036,East,Suburban,Beverages,December,12,25505.03,22098.57,190,49
+RetailPulse East #036,East,Suburban,Electronics,December,12,1969903.26,1676087.12,177,51
+RetailPulse East #036,East,Suburban,Grocery,December,12,44732.95,39368.36,198,48
+RetailPulse East #036,East,Suburban,Home & Kitchen,December,12,525557.43,413109.48,203,51
+RetailPulse East #036,East,Suburban,Personal Care,December,12,88135.61,67814.1,229,53
+RetailPulse East #036,East,Suburban,Stationery,December,12,52468.07,42666.63,212,53
+RetailPulse East #044,East,Metro,Apparel,October,10,856752.4400000001,562585.94,558,43
+RetailPulse East #044,East,Metro,Beverages,October,10,49621.12,43821.42,303,45
+RetailPulse East #044,East,Metro,Electronics,October,10,9489202.84,8130717.59,724,49
+RetailPulse East #044,East,Metro,Grocery,October,10,63756.12,57804.74,276,44
+RetailPulse East #044,East,Metro,Home & Kitchen,October,10,951365.98,746564.67,381,55
+RetailPulse East #044,East,Metro,Personal Care,October,10,136878.0,101596.06,337,51
+RetailPulse East #044,East,Metro,Stationery,October,10,77397.72,62243.26,284,47
+RetailPulse East #044,East,Metro,Apparel,November,11,860882.34,573922.11,535,42
+RetailPulse East #044,East,Metro,Beverages,November,11,68197.87,59214.07,388,56
+RetailPulse East #044,East,Metro,Electronics,November,11,9374881.7,7925983.12,621,43
+RetailPulse East #044,East,Metro,Grocery,November,11,90556.53,79511.62,353,52
+RetailPulse East #044,East,Metro,Home & Kitchen,November,11,753795.73,585709.37,328,47
+RetailPulse East #044,East,Metro,Personal Care,November,11,101161.75,74285.13,239,37
+RetailPulse East #044,East,Metro,Stationery,November,11,99621.15,79622.01,345,49
+RetailPulse East #044,East,Metro,Apparel,December,12,520251.64,340143.22,298,42
+RetailPulse East #044,East,Metro,Beverages,December,12,52846.1,45974.54,333,53
+RetailPulse East #044,East,Metro,Electronics,December,12,5315615.47,4485704.4799999995,432,63
+RetailPulse East #044,East,Metro,Grocery,December,12,80127.27,74001.95,347,52
+RetailPulse East #044,East,Metro,Home & Kitchen,December,12,737764.61,579771.02,291,45
+RetailPulse East #044,East,Metro,Personal Care,December,12,123149.64,88430.88,253,38
+RetailPulse East #044,East,Metro,Stationery,December,12,63085.19,51382.48,259,42
+RetailPulse East #052,East,Urban,Apparel,October,10,807689.45,539815.88,506,59
+RetailPulse East #052,East,Urban,Beverages,October,10,32094.44,27643.01,209,48
+RetailPulse East #052,East,Urban,Electronics,October,10,8105484.46,6896803.75,531,50
+RetailPulse East #052,East,Urban,Grocery,October,10,53445.25,48589.22,218,51
+RetailPulse East #052,East,Urban,Home & Kitchen,October,10,716994.61,554660.62,260,55
+RetailPulse East #052,East,Urban,Personal Care,October,10,59052.66,43475.13,145,31
+RetailPulse East #052,East,Urban,Stationery,October,10,58467.69,48036.96,215,44
+RetailPulse East #052,East,Urban,Apparel,November,11,697092.97,448598.89999999997,413,48
+RetailPulse East #052,East,Urban,Beverages,November,11,33610.21,28583.899999999998,204,44
+RetailPulse East #052,East,Urban,Electronics,November,11,8105909.92,6852497.5,646,53
+RetailPulse East #052,East,Urban,Grocery,November,11,52900.02,46515.38,212,44
+RetailPulse East #052,East,Urban,Home & Kitchen,November,11,629396.65,501056.01,253,55
+RetailPulse East #052,East,Urban,Personal Care,November,11,80618.28,59222.84,206,46
+RetailPulse East #052,East,Urban,Stationery,November,11,51624.87,41607.77,195,44
+RetailPulse East #052,East,Urban,Apparel,December,12,394898.27,260878.7,236,52
+RetailPulse East #052,East,Urban,Beverages,December,12,26602.88,23118.95,190,49
+RetailPulse East #052,East,Urban,Electronics,December,12,2930452.33,2448930.12,223,51
+RetailPulse East #052,East,Urban,Grocery,December,12,75359.13,66954.73,300,58
+RetailPulse East #052,East,Urban,Home & Kitchen,December,12,606763.48,471829.65,247,57
+RetailPulse East #052,East,Urban,Personal Care,December,12,107647.67,79796.95,258,52
+RetailPulse East #052,East,Urban,Stationery,December,12,57503.81,45639.46,254,54
+RetailPulse North #002,North,Rural,Apparel,October,10,539721.32,342632.4,319,54
+RetailPulse North #002,North,Rural,Beverages,October,10,22556.37,19142.670000000002,166,54
+RetailPulse North #002,North,Rural,Electronics,October,10,4206901.83,3534569.41,323,51
+RetailPulse North #002,North,Rural,Grocery,October,10,29853.27,26264.84,123,51
+RetailPulse North #002,North,Rural,Home & Kitchen,October,10,375800.42,287126.57,141,44
+RetailPulse North #002,North,Rural,Personal Care,October,10,68137.73,48849.32,175,55
+RetailPulse North #002,North,Rural,Stationery,October,10,37316.07,29401.670000000002,152,53
+RetailPulse North #002,North,Rural,Apparel,November,11,357121.91000000003,235277.26,236,42
+RetailPulse North #002,North,Rural,Beverages,November,11,18637.42,16675.63,121,41
+RetailPulse North #002,North,Rural,Electronics,November,11,4619728.65,3867434.3,318,47
+RetailPulse North #002,North,Rural,Grocery,November,11,33326.59,29374.21,154,53
+RetailPulse North #002,North,Rural,Home & Kitchen,November,11,399219.47,309093.09,137,50
+RetailPulse North #002,North,Rural,Personal Care,November,11,78712.15,57671.6,188,61
+RetailPulse North #002,North,Rural,Stationery,November,11,20477.51,16143.7,100,36
+RetailPulse North #002,North,Rural,Apparel,December,12,226524.76,153690.0,129,48
+RetailPulse North #002,North,Rural,Beverages,December,12,22534.15,19217.23,149,55
+RetailPulse North #002,North,Rural,Electronics,December,12,1605091.1,1346683.31,120,38
+RetailPulse North #002,North,Rural,Grocery,December,12,46250.75,41525.0,183,63
+RetailPulse North #002,North,Rural,Home & Kitchen,December,12,467265.87,363259.64,178,54
+RetailPulse North #002,North,Rural,Personal Care,December,12,41211.87,30809.81,115,41
+RetailPulse North #002,North,Rural,Stationery,December,12,35798.24,28373.14,128,46
+RetailPulse North #008,North,Rural,Apparel,October,10,276344.24,192351.23,165,38
+RetailPulse North #008,North,Rural,Beverages,October,10,15677.48,13917.5,119,47
+RetailPulse North #008,North,Rural,Electronics,October,10,4783509.44,4041824.78,349,61
+RetailPulse North #008,North,Rural,Grocery,October,10,35302.33,31640.66,135,59
+RetailPulse North #008,North,Rural,Home & Kitchen,October,10,243633.49,192435.85,104,47
+RetailPulse North #008,North,Rural,Personal Care,October,10,41897.22,31464.52,104,45
+RetailPulse North #008,North,Rural,Stationery,October,10,32421.19,26857.35,134,57
+RetailPulse North #008,North,Rural,Apparel,November,11,372707.07,254704.76,225,48
+RetailPulse North #008,North,Rural,Beverages,November,11,11519.91,9867.77,75,33
+RetailPulse North #008,North,Rural,Electronics,November,11,3307681.28,2814799.0,258,45
+RetailPulse North #008,North,Rural,Grocery,November,11,29368.26,26160.39,124,54
+RetailPulse North #008,North,Rural,Home & Kitchen,November,11,270495.2,207945.79,111,47
+RetailPulse North #008,North,Rural,Personal Care,November,11,61530.31,46501.56,135,59
+RetailPulse North #008,North,Rural,Stationery,November,11,26310.26,21586.75,95,43
+RetailPulse North #008,North,Rural,Apparel,December,12,216674.37,141084.99,137,53
+RetailPulse North #008,North,Rural,Beverages,December,12,19588.66,16670.64,126,55
+RetailPulse North #008,North,Rural,Electronics,December,12,1476052.86,1243134.84,126,51
+RetailPulse North #008,North,Rural,Grocery,December,12,23022.28,20229.64,98,43
+RetailPulse North #008,North,Rural,Home & Kitchen,December,12,257827.23,192542.03,99,46
+RetailPulse North #008,North,Rural,Personal Care,December,12,55513.81,40461.22,124,51
+RetailPulse North #008,North,Rural,Stationery,December,12,27728.18,23316.98,93,38
+RetailPulse North #012,North,Suburban,Apparel,October,10,706553.18,451267.6,407,59
+RetailPulse North #012,North,Suburban,Beverages,October,10,35623.5,31064.02,249,60
+RetailPulse North #012,North,Suburban,Electronics,October,10,4328320.86,3652174.81,341,38
+RetailPulse North #012,North,Suburban,Grocery,October,10,42331.74,37895.35,190,49
+RetailPulse North #012,North,Suburban,Home & Kitchen,October,10,431233.02,336652.05,180,47
+RetailPulse North #012,North,Suburban,Personal Care,October,10,77414.31,59413.68,181,45
+RetailPulse North #012,North,Suburban,Stationery,October,10,47728.83,37702.45,155,35
+RetailPulse North #012,North,Suburban,Apparel,November,11,634429.78,417545.65,402,57
+RetailPulse North #012,North,Suburban,Beverages,November,11,25289.73,21719.02,147,43
+RetailPulse North #012,North,Suburban,Electronics,November,11,5422966.49,4728729.44,381,44
+RetailPulse North #012,North,Suburban,Grocery,November,11,43195.51,38549.61,200,54
+RetailPulse North #012,North,Suburban,Home & Kitchen,November,11,434351.43,347483.34,194,50
+RetailPulse North #012,North,Suburban,Personal Care,November,11,68164.17,50038.39,158,39
+RetailPulse North #012,North,Suburban,Stationery,November,11,35999.37,29366.09,157,43
+RetailPulse North #012,North,Suburban,Apparel,December,12,303699.86,208906.79,180,45
+RetailPulse North #012,North,Suburban,Beverages,December,12,24112.27,21143.13,164,45
+RetailPulse North #012,North,Suburban,Electronics,December,12,3229707.14,2716818.74,236,52
+RetailPulse North #012,North,Suburban,Grocery,December,12,32013.07,28930.71,111,34
+RetailPulse North #012,North,Suburban,Home & Kitchen,December,12,598595.74,465494.73,225,55
+RetailPulse North #012,North,Suburban,Personal Care,December,12,86658.36,65012.91,201,51
+RetailPulse North #012,North,Suburban,Stationery,December,12,54674.34,44710.3,243,58
+RetailPulse North #013,North,Suburban,Apparel,October,10,613794.0,396195.8,385,51
+RetailPulse North #013,North,Suburban,Beverages,October,10,22267.72,18796.41,177,46
+RetailPulse North #013,North,Suburban,Electronics,October,10,4154967.41,3489289.31,326,41
+RetailPulse North #013,North,Suburban,Grocery,October,10,46599.22,42144.13,184,46
+RetailPulse North #013,North,Suburban,Home & Kitchen,October,10,442085.07,334155.63,166,39
+RetailPulse North #013,North,Suburban,Personal Care,October,10,70843.94,51032.76,197,48
+RetailPulse North #013,North,Suburban,Stationery,October,10,47659.270000000004,38094.87,180,42
+RetailPulse North #013,North,Suburban,Apparel,November,11,515521.03,339338.14,292,43
+RetailPulse North #013,North,Suburban,Beverages,November,11,25286.57,21726.71,175,47
+RetailPulse North #013,North,Suburban,Electronics,November,11,5337083.53,4554435.78,384,47
+RetailPulse North #013,North,Suburban,Grocery,November,11,48650.04,42627.98,203,56
+RetailPulse North #013,North,Suburban,Home & Kitchen,November,11,538452.28,428336.35000000003,205,51
+RetailPulse North #013,North,Suburban,Personal Care,November,11,76390.93,58235.6,194,52
+RetailPulse North #013,North,Suburban,Stationery,November,11,55569.81,44234.62,204,45
+RetailPulse North #013,North,Suburban,Apparel,December,12,323078.09,223633.01,183,48
+RetailPulse North #013,North,Suburban,Beverages,December,12,31111.13,26888.64,213,52
+RetailPulse North #013,North,Suburban,Electronics,December,12,2853369.02,2394633.35,204,54
+RetailPulse North #013,North,Suburban,Grocery,December,12,49236.62,43848.34,207,51
+RetailPulse North #013,North,Suburban,Home & Kitchen,December,12,498009.48,386923.23,215,55
+RetailPulse North #013,North,Suburban,Personal Care,December,12,89649.98,67027.59,201,52
+RetailPulse North #013,North,Suburban,Stationery,December,12,47817.5,39959.54,205,54
+RetailPulse North #016,North,Suburban,Apparel,October,10,577382.46,378584.6,354,51
+RetailPulse North #016,North,Suburban,Beverages,October,10,33505.87,28576.58,201,47
+RetailPulse North #016,North,Suburban,Electronics,October,10,4777743.46,4078429.73,361,44
+RetailPulse North #016,North,Suburban,Grocery,October,10,53665.71,47446.26,211,53
+RetailPulse North #016,North,Suburban,Home & Kitchen,October,10,366153.97,288767.47000000003,157,37
+RetailPulse North #016,North,Suburban,Personal Care,October,10,77367.86,57203.77,184,52
+RetailPulse North #016,North,Suburban,Stationery,October,10,61007.31,49881.34,243,59
+RetailPulse North #016,North,Suburban,Apparel,November,11,521305.16,349280.07,362,54
+RetailPulse North #016,North,Suburban,Beverages,November,11,31309.920000000002,27345.97,191,49
+RetailPulse North #016,North,Suburban,Electronics,November,11,6185120.47,5407170.25,474,52
+RetailPulse North #016,North,Suburban,Grocery,November,11,39761.5,34876.48,174,43
+RetailPulse North #016,North,Suburban,Home & Kitchen,November,11,551042.62,445902.44,224,59
+RetailPulse North #016,North,Suburban,Personal Care,November,11,81157.48,59876.87,204,45
+RetailPulse North #016,North,Suburban,Stationery,November,11,54645.46,43366.57,212,54
+RetailPulse North #016,North,Suburban,Apparel,December,12,390714.94,262961.33,235,49
+RetailPulse North #016,North,Suburban,Beverages,December,12,22862.7,19757.74,143,41
+RetailPulse North #016,North,Suburban,Electronics,December,12,2551556.01,2216816.45,193,46
+RetailPulse North #016,North,Suburban,Grocery,December,12,33062.47,29346.149999999998,157,42
+RetailPulse North #016,North,Suburban,Home & Kitchen,December,12,646785.53,511919.81,227,50
+RetailPulse North #016,North,Suburban,Personal Care,December,12,69767.19,51199.53,151,42
+RetailPulse North #016,North,Suburban,Stationery,December,12,60602.83,49486.08,217,58
+RetailPulse North #023,North,Urban,Apparel,October,10,521127.91000000003,342901.21,320,41
+RetailPulse North #023,North,Urban,Beverages,October,10,36488.89,31996.4,227,48
+RetailPulse North #023,North,Urban,Electronics,October,10,6888416.03,5912934.44,565,47
+RetailPulse North #023,North,Urban,Grocery,October,10,62936.19,56712.56,258,48
+RetailPulse North #023,North,Urban,Home & Kitchen,October,10,483428.18,390183.1,199,47
+RetailPulse North #023,North,Urban,Personal Care,October,10,100861.45,75331.13,246,52
+RetailPulse North #023,North,Urban,Stationery,October,10,53566.07,44045.92,187,38
+RetailPulse North #023,North,Urban,Apparel,November,11,719590.37,505073.04,517,58
+RetailPulse North #023,North,Urban,Beverages,November,11,34714.29,29914.41,251,48
+RetailPulse North #023,North,Urban,Electronics,November,11,5714425.2700000005,4860957.21,422,38
+RetailPulse North #023,North,Urban,Grocery,November,11,54615.24,47922.17,240,47
+RetailPulse North #023,North,Urban,Home & Kitchen,November,11,639905.17,498172.22,216,48
+RetailPulse North #023,North,Urban,Personal Care,November,11,114893.58,84490.75,258,52
+RetailPulse North #023,North,Urban,Stationery,November,11,67511.86,54144.95,270,56
+RetailPulse North #023,North,Urban,Apparel,December,12,311887.3,206917.92,185,41
+RetailPulse North #023,North,Urban,Beverages,December,12,23481.21,20346.01,174,47
+RetailPulse North #023,North,Urban,Electronics,December,12,3960938.47,3351930.21,294,59
+RetailPulse North #023,North,Urban,Grocery,December,12,43725.23,39585.090000000004,206,45
+RetailPulse North #023,North,Urban,Home & Kitchen,December,12,706354.35,552731.03,299,59
+RetailPulse North #023,North,Urban,Personal Care,December,12,93826.67,69456.07,239,54
+RetailPulse North #023,North,Urban,Stationery,December,12,64219.46,51328.55,238,52
+RetailPulse North #029,North,Urban,Apparel,October,10,509419.81,335195.82,318,42
+RetailPulse North #029,North,Urban,Beverages,October,10,41005.92,35142.0,292,65
+RetailPulse North #029,North,Urban,Electronics,October,10,6453120.96,5595006.24,499,48
+RetailPulse North #029,North,Urban,Grocery,October,10,32430.2,28581.5,138,35
+RetailPulse North #029,North,Urban,Home & Kitchen,October,10,422660.48,332292.3,203,53
+RetailPulse North #029,North,Urban,Personal Care,October,10,86132.69,64488.57,181,44
+RetailPulse North #029,North,Urban,Stationery,October,10,44930.06,36046.98,162,37
+RetailPulse North #029,North,Urban,Apparel,November,11,464023.03,316163.16000000003,273,38
+RetailPulse North #029,North,Urban,Beverages,November,11,29322.36,25301.35,204,48
+RetailPulse North #029,North,Urban,Electronics,November,11,6305244.11,5339181.75,553,66
+RetailPulse North #029,North,Urban,Grocery,November,11,51671.71,46887.71,216,52
+RetailPulse North #029,North,Urban,Home & Kitchen,November,11,572832.85,434788.4,190,46
+RetailPulse North #029,North,Urban,Personal Care,November,11,78505.54,58955.4,180,39
+RetailPulse North #029,North,Urban,Stationery,November,11,45556.43,37719.23,171,42
+RetailPulse North #029,North,Urban,Apparel,December,12,340844.0,233491.03,204,53
+RetailPulse North #029,North,Urban,Beverages,December,12,30086.88,26165.66,208,50
+RetailPulse North #029,North,Urban,Electronics,December,12,2138422.65,1886701.63,172,39
+RetailPulse North #029,North,Urban,Grocery,December,12,50484.73,44759.090000000004,206,50
+RetailPulse North #029,North,Urban,Home & Kitchen,December,12,453095.61,352652.2,194,46
+RetailPulse North #029,North,Urban,Personal Care,December,12,107327.05,77175.19,245,56
+RetailPulse North #029,North,Urban,Stationery,December,12,58150.44,48068.51,228,57
+RetailPulse North #038,North,Urban,Apparel,October,10,496381.98,340355.32,304,41
+RetailPulse North #038,North,Urban,Beverages,October,10,30869.48,26757.22,192,41
+RetailPulse North #038,North,Urban,Electronics,October,10,6758021.65,5809881.49,514,52
+RetailPulse North #038,North,Urban,Grocery,October,10,48567.21,43737.96,211,47
+RetailPulse North #038,North,Urban,Home & Kitchen,October,10,685935.75,544203.61,265,57
+RetailPulse North #038,North,Urban,Personal Care,October,10,75208.08,54382.19,175,38
+RetailPulse North #038,North,Urban,Stationery,October,10,62902.72,50753.45,261,53
+RetailPulse North #038,North,Urban,Apparel,November,11,523940.05,346368.45,329,40
+RetailPulse North #038,North,Urban,Beverages,November,11,28683.28,24606.46,186,41
+RetailPulse North #038,North,Urban,Electronics,November,11,4515656.31,3797924.64,391,35
+RetailPulse North #038,North,Urban,Grocery,November,11,63988.46,57563.33,266,54
+RetailPulse North #038,North,Urban,Home & Kitchen,November,11,534324.5,412756.39,180,46
+RetailPulse North #038,North,Urban,Personal Care,November,11,120962.38,89995.18000000001,277,58
+RetailPulse North #038,North,Urban,Stationery,November,11,38342.49,30761.92,145,33
+RetailPulse North #038,North,Urban,Apparel,December,12,380407.3,256939.87,228,52
+RetailPulse North #038,North,Urban,Beverages,December,12,21445.21,18619.38,159,36
+RetailPulse North #038,North,Urban,Electronics,December,12,2689682.65,2402961.98,213,48
+RetailPulse North #038,North,Urban,Grocery,December,12,67007.6,59253.04,275,59
+RetailPulse North #038,North,Urban,Home & Kitchen,December,12,577894.4,439747.73,254,55
+RetailPulse North #038,North,Urban,Personal Care,December,12,78592.95,58666.44,162,30
+RetailPulse North #038,North,Urban,Stationery,December,12,51773.19,41205.659999999996,202,44
+RetailPulse North #040,North,Suburban,Apparel,October,10,507661.94,336243.85,335,50
+RetailPulse North #040,North,Suburban,Beverages,October,10,30415.62,26671.6,191,45
+RetailPulse North #040,North,Suburban,Electronics,October,10,4087016.68,3490441.86,341,37
+RetailPulse North #040,North,Suburban,Grocery,October,10,51245.630000000005,45408.98,190,49
+RetailPulse North #040,North,Suburban,Home & Kitchen,October,10,395753.15,304271.69,176,47
+RetailPulse North #040,North,Suburban,Personal Care,October,10,88628.2,62595.98,235,60
+RetailPulse North #040,North,Suburban,Stationery,October,10,49449.89,39478.55,161,46
+RetailPulse North #040,North,Suburban,Apparel,November,11,588573.21,385438.65,345,52
+RetailPulse North #040,North,Suburban,Beverages,November,11,26862.03,23531.27,174,44
+RetailPulse North #040,North,Suburban,Electronics,November,11,5224922.58,4508866.45,411,53
+RetailPulse North #040,North,Suburban,Grocery,November,11,42837.04,37914.95,163,42
+RetailPulse North #040,North,Suburban,Home & Kitchen,November,11,466389.06,355196.17,181,49
+RetailPulse North #040,North,Suburban,Personal Care,November,11,57496.39,41219.46,152,45
+RetailPulse North #040,North,Suburban,Stationery,November,11,62791.93,50852.26,200,50
+RetailPulse North #040,North,Suburban,Apparel,December,12,272054.22,176859.06,178,47
+RetailPulse North #040,North,Suburban,Beverages,December,12,23637.18,20484.41,170,45
+RetailPulse North #040,North,Suburban,Electronics,December,12,2834199.36,2413959.17,234,56
+RetailPulse North #040,North,Suburban,Grocery,December,12,36666.76,33573.52,158,41
+RetailPulse North #040,North,Suburban,Home & Kitchen,December,12,618506.98,485912.62,223,58
+RetailPulse North #040,North,Suburban,Personal Care,December,12,66372.73,49629.590000000004,135,42
+RetailPulse North #040,North,Suburban,Stationery,December,12,33581.76,27408.32,165,44
+RetailPulse North #050,North,Urban,Apparel,October,10,638527.66,428240.7,397,49
+RetailPulse North #050,North,Urban,Beverages,October,10,32277.13,27866.31,211,48
+RetailPulse North #050,North,Urban,Electronics,October,10,6977625.3,5955855.69,513,50
+RetailPulse North #050,North,Urban,Grocery,October,10,63368.77,56776.23,239,57
+RetailPulse North #050,North,Urban,Home & Kitchen,October,10,493332.25,394458.42,203,48
+RetailPulse North #050,North,Urban,Personal Care,October,10,80027.6,57987.07,211,48
+RetailPulse North #050,North,Urban,Stationery,October,10,51675.51,41904.0,238,53
+RetailPulse North #050,North,Urban,Apparel,November,11,548706.05,371497.69,335,45
+RetailPulse North #050,North,Urban,Beverages,November,11,24726.25,22164.72,166,40
+RetailPulse North #050,North,Urban,Electronics,November,11,5725644.0,5084952.51,476,48
+RetailPulse North #050,North,Urban,Grocery,November,11,34329.659999999996,30359.44,142,32
+RetailPulse North #050,North,Urban,Home & Kitchen,November,11,696880.01,550881.93,234,56
+RetailPulse North #050,North,Urban,Personal Care,November,11,79146.89,58038.89,186,46
+RetailPulse North #050,North,Urban,Stationery,November,11,51362.33,42190.340000000004,192,48
+RetailPulse North #050,North,Urban,Apparel,December,12,310897.76,204348.43,166,36
+RetailPulse North #050,North,Urban,Beverages,December,12,33736.03,28927.329999999998,262,56
+RetailPulse North #050,North,Urban,Electronics,December,12,3258346.35,2734384.27,250,49
+RetailPulse North #050,North,Urban,Grocery,December,12,48692.14,43984.71,231,49
+RetailPulse North #050,North,Urban,Home & Kitchen,December,12,488628.9,393082.74,190,40
+RetailPulse North #050,North,Urban,Personal Care,December,12,91041.81,65925.07,208,44
+RetailPulse North #050,North,Urban,Stationery,December,12,41466.61,33516.81,179,39
+RetailPulse North #051,North,Urban,Apparel,October,10,764169.74,503735.12,453,48
+RetailPulse North #051,North,Urban,Beverages,October,10,33256.51,28349.67,206,38
+RetailPulse North #051,North,Urban,Electronics,October,10,8310922.4,7048666.51,656,52
+RetailPulse North #051,North,Urban,Grocery,October,10,70141.25,63879.88,302,57
+RetailPulse North #051,North,Urban,Home & Kitchen,October,10,684375.54,538463.48,291,59
+RetailPulse North #051,North,Urban,Personal Care,October,10,94140.41,70342.45,204,44
+RetailPulse North #051,North,Urban,Stationery,October,10,86256.46,70020.78,332,59
+RetailPulse North #051,North,Urban,Apparel,November,11,657340.8,435451.55,378,40
+RetailPulse North #051,North,Urban,Beverages,November,11,41415.23,35598.99,274,52
+RetailPulse North #051,North,Urban,Electronics,November,11,8000368.81,6836956.11,573,49
+RetailPulse North #051,North,Urban,Grocery,November,11,44942.96,39506.36,191,46
+RetailPulse North #051,North,Urban,Home & Kitchen,November,11,592219.24,466817.2,218,47
+RetailPulse North #051,North,Urban,Personal Care,November,11,75909.14,55267.12,187,37
+RetailPulse North #051,North,Urban,Stationery,November,11,55117.98,46554.3,219,38
+RetailPulse North #051,North,Urban,Apparel,December,12,308250.1,203762.47,198,37
+RetailPulse North #051,North,Urban,Beverages,December,12,33148.92,28598.48,236,49
+RetailPulse North #051,North,Urban,Electronics,December,12,3803206.15,3221839.7399999998,286,54
+RetailPulse North #051,North,Urban,Grocery,December,12,49562.8,43725.49,206,49
+RetailPulse North #051,North,Urban,Home & Kitchen,December,12,558575.83,434315.36,238,45
+RetailPulse North #051,North,Urban,Personal Care,December,12,134112.31,101644.29000000001,322,60
+RetailPulse North #051,North,Urban,Stationery,December,12,78286.8,63003.07,300,58
+RetailPulse North #053,North,Rural,Apparel,October,10,302813.17,199354.9,180,50
+RetailPulse North #053,North,Rural,Beverages,October,10,8472.02,7203.58,73,37
+RetailPulse North #053,North,Rural,Electronics,October,10,1603779.38,1358780.8800000001,154,38
+RetailPulse North #053,North,Rural,Grocery,October,10,28975.8,25506.69,117,59
+RetailPulse North #053,North,Rural,Home & Kitchen,October,10,255540.27,201055.14,95,49
+RetailPulse North #053,North,Rural,Personal Care,October,10,38598.67,29511.77,96,51
+RetailPulse North #053,North,Rural,Stationery,October,10,25707.76,20424.26,89,47
+RetailPulse North #053,North,Rural,Apparel,November,11,278099.52,184794.43,162,56
+RetailPulse North #053,North,Rural,Beverages,November,11,10298.88,8940.53,67,34
+RetailPulse North #053,North,Rural,Electronics,November,11,3278500.3,2782444.2800000003,247,48
+RetailPulse North #053,North,Rural,Grocery,November,11,24768.36,21855.46,109,50
+RetailPulse North #053,North,Rural,Home & Kitchen,November,11,260531.14,206521.36000000002,116,56
+RetailPulse North #053,North,Rural,Personal Care,November,11,44672.96,32776.9,110,54
+RetailPulse North #053,North,Rural,Stationery,November,11,22708.61,17910.579999999998,84,46
+RetailPulse North #053,North,Rural,Apparel,December,12,215529.25,145254.24,126,61
+RetailPulse North #053,North,Rural,Beverages,December,12,13675.57,11795.72,93,44
+RetailPulse North #053,North,Rural,Electronics,December,12,1331560.94,1154579.55,99,52
+RetailPulse North #053,North,Rural,Grocery,December,12,16777.72,15252.98,78,52
+RetailPulse North #053,North,Rural,Home & Kitchen,December,12,264299.73,206617.91,107,51
+RetailPulse North #053,North,Rural,Personal Care,December,12,40394.81,29298.66,104,54
+RetailPulse North #053,North,Rural,Stationery,December,12,19079.47,15837.02,89,51
+RetailPulse North #054,North,Urban,Apparel,October,10,711050.5,488378.29,468,54
+RetailPulse North #054,North,Urban,Beverages,October,10,29025.79,24935.74,192,43
+RetailPulse North #054,North,Urban,Electronics,October,10,7501749.14,6436795.36,522,40
+RetailPulse North #054,North,Urban,Grocery,October,10,52809.78,47848.37,228,46
+RetailPulse North #054,North,Urban,Home & Kitchen,October,10,539112.55,420118.12,220,48
+RetailPulse North #054,North,Urban,Personal Care,October,10,115396.20999999999,89198.13,250,50
+RetailPulse North #054,North,Urban,Stationery,October,10,59918.64,48696.99,243,47
+RetailPulse North #054,North,Urban,Apparel,November,11,739673.18,491039.77999999997,430,44
+RetailPulse North #054,North,Urban,Beverages,November,11,46131.53,40054.85,279,52
+RetailPulse North #054,North,Urban,Electronics,November,11,9596321.59,8192219.2700000005,693,60
+RetailPulse North #054,North,Urban,Grocery,November,11,50247.5,46203.6,234,47
+RetailPulse North #054,North,Urban,Home & Kitchen,November,11,582482.9400000001,454034.75,225,41
+RetailPulse North #054,North,Urban,Personal Care,November,11,108096.96,78231.7,270,54
+RetailPulse North #054,North,Urban,Stationery,November,11,73314.76,59257.7,264,54
+RetailPulse North #054,North,Urban,Apparel,December,12,406592.66,272145.17,227,46
+RetailPulse North #054,North,Urban,Beverages,December,12,34996.48,29745.71,256,52
+RetailPulse North #054,North,Urban,Electronics,December,12,3827129.18,3220557.57,269,49
+RetailPulse North #054,North,Urban,Grocery,December,12,69278.73,62253.49,260,46
+RetailPulse North #054,North,Urban,Home & Kitchen,December,12,523750.02,399790.1,221,49
+RetailPulse North #054,North,Urban,Personal Care,December,12,96817.04,72370.99,255,51
+RetailPulse North #054,North,Urban,Stationery,December,12,64077.69,53160.92,219,46
+RetailPulse South #001,South,Rural,Apparel,October,10,258479.53,172837.29,171,48
+RetailPulse South #001,South,Rural,Beverages,October,10,17842.53,15794.28,114,59
+RetailPulse South #001,South,Rural,Electronics,October,10,2470108.83,2161814.25,209,44
+RetailPulse South #001,South,Rural,Grocery,October,10,18211.7,16210.99,72,40
+RetailPulse South #001,South,Rural,Home & Kitchen,October,10,247927.7,194409.29,92,57
+RetailPulse South #001,South,Rural,Personal Care,October,10,35398.65,26975.760000000002,80,44
+RetailPulse South #001,South,Rural,Stationery,October,10,20224.91,16288.61,93,46
+RetailPulse South #001,South,Rural,Apparel,November,11,176963.14,116629.69,123,35
+RetailPulse South #001,South,Rural,Beverages,November,11,16069.49,14019.75,110,57
+RetailPulse South #001,South,Rural,Electronics,November,11,3270863.13,2805006.43,260,52
+RetailPulse South #001,South,Rural,Grocery,November,11,21239.52,18632.68,89,50
+RetailPulse South #001,South,Rural,Home & Kitchen,November,11,161236.07,127066.38,85,48
+RetailPulse South #001,South,Rural,Personal Care,November,11,39614.23,29289.86,109,54
+RetailPulse South #001,South,Rural,Stationery,November,11,21777.41,17879.73,85,42
+RetailPulse South #001,South,Rural,Apparel,December,12,150320.93,97052.0,94,47
+RetailPulse South #001,South,Rural,Beverages,December,12,13746.75,11964.09,96,48
+RetailPulse South #001,South,Rural,Electronics,December,12,1520440.69,1309205.54,105,54
+RetailPulse South #001,South,Rural,Grocery,December,12,24989.12,22082.04,108,58
+RetailPulse South #001,South,Rural,Home & Kitchen,December,12,231941.17,183894.69,85,43
+RetailPulse South #001,South,Rural,Personal Care,December,12,36816.88,27306.96,84,47
+RetailPulse South #001,South,Rural,Stationery,December,12,20555.42,16030.7,84,42
+RetailPulse South #004,South,Urban,Apparel,October,10,542761.75,366129.0,341,45
+RetailPulse South #004,South,Urban,Beverages,October,10,30555.13,26901.48,217,49
+RetailPulse South #004,South,Urban,Electronics,October,10,7349722.87,6255590.38,624,62
+RetailPulse South #004,South,Urban,Grocery,October,10,41733.4,36785.01,156,37
+RetailPulse South #004,South,Urban,Home & Kitchen,October,10,579597.88,461583.68,246,53
+RetailPulse South #004,South,Urban,Personal Care,October,10,79972.83,58892.06,198,42
+RetailPulse South #004,South,Urban,Stationery,October,10,34601.03,28498.48,129,34
+RetailPulse South #004,South,Urban,Apparel,November,11,472226.76,304077.08,323,40
+RetailPulse South #004,South,Urban,Beverages,November,11,24961.23,21802.89,169,44
+RetailPulse South #004,South,Urban,Electronics,November,11,8240216.9,7134521.04,583,61
+RetailPulse South #004,South,Urban,Grocery,November,11,50900.53,45494.33,194,43
+RetailPulse South #004,South,Urban,Home & Kitchen,November,11,407303.33999999997,311579.98,191,45
+RetailPulse South #004,South,Urban,Personal Care,November,11,62861.4,46118.89,146,39
+RetailPulse South #004,South,Urban,Stationery,November,11,64014.18,52004.63,254,62
+RetailPulse South #004,South,Urban,Apparel,December,12,402904.07,267098.52,267,54
+RetailPulse South #004,South,Urban,Beverages,December,12,32468.04,28008.91,201,45
+RetailPulse South #004,South,Urban,Electronics,December,12,3034330.35,2536542.47,216,47
+RetailPulse South #004,South,Urban,Grocery,December,12,48086.24,43081.479999999996,210,50
+RetailPulse South #004,South,Urban,Home & Kitchen,December,12,710371.8,559758.3,286,57
+RetailPulse South #004,South,Urban,Personal Care,December,12,89681.61,68139.97,195,41
+RetailPulse South #004,South,Urban,Stationery,December,12,65446.08,53096.770000000004,234,49
+RetailPulse South #007,South,Metro,Apparel,October,10,707594.84,465364.66,469,41
+RetailPulse South #007,South,Metro,Beverages,October,10,49859.14,43135.31,324,51
+RetailPulse South #007,South,Metro,Electronics,October,10,8767727.209999999,7480869.33,682,49
+RetailPulse South #007,South,Metro,Grocery,October,10,68072.67,62799.86,301,51
+RetailPulse South #007,South,Metro,Home & Kitchen,October,10,863208.2,680609.1900000001,364,61
+RetailPulse South #007,South,Metro,Personal Care,October,10,133520.6,100724.92,296,45
+RetailPulse South #007,South,Metro,Stationery,October,10,93561.81999999999,76785.51,341,53
+RetailPulse South #007,South,Metro,Apparel,November,11,629804.51,410052.49,429,36
+RetailPulse South #007,South,Metro,Beverages,November,11,51469.81,44749.08,312,45
+RetailPulse South #007,South,Metro,Electronics,November,11,11372423.2,9782255.83,773,57
+RetailPulse South #007,South,Metro,Grocery,November,11,79691.38,71185.27,362,54
+RetailPulse South #007,South,Metro,Home & Kitchen,November,11,444607.51,337441.34,233,39
+RetailPulse South #007,South,Metro,Personal Care,November,11,87000.23,62894.48,183,29
+RetailPulse South #007,South,Metro,Stationery,November,11,67735.21,55224.37,273,42
+RetailPulse South #007,South,Metro,Apparel,December,12,418523.57,285553.22000000003,259,32
+RetailPulse South #007,South,Metro,Beverages,December,12,41276.69,35536.99,282,42
+RetailPulse South #007,South,Metro,Electronics,December,12,4813533.72,4039651.86,386,59
+RetailPulse South #007,South,Metro,Grocery,December,12,60416.37,52970.57,293,45
+RetailPulse South #007,South,Metro,Home & Kitchen,December,12,1006704.08,791836.85,339,55
+RetailPulse South #007,South,Metro,Personal Care,December,12,164195.5,118700.03,383,52
+RetailPulse South #007,South,Metro,Stationery,December,12,66688.97,53871.36,289,44
+RetailPulse South #011,South,Urban,Apparel,October,10,754921.41,508056.71,447,48
+RetailPulse South #011,South,Urban,Beverages,October,10,32594.72,27473.2,204,45
+RetailPulse South #011,South,Urban,Electronics,October,10,6536131.7,5625091.4799999995,493,49
+RetailPulse South #011,South,Urban,Grocery,October,10,54904.64,48577.78,227,41
+RetailPulse South #011,South,Urban,Home & Kitchen,October,10,583944.68,456283.99,227,49
+RetailPulse South #011,South,Urban,Personal Care,October,10,92093.66,67159.08,221,46
+RetailPulse South #011,South,Urban,Stationery,October,10,35774.06,29086.61,171,41
+RetailPulse South #011,South,Urban,Apparel,November,11,613639.25,412987.68,408,46
+RetailPulse South #011,South,Urban,Beverages,November,11,34395.64,29437.44,211,44
+RetailPulse South #011,South,Urban,Electronics,November,11,6180414.48,5228750.78,417,40
+RetailPulse South #011,South,Urban,Grocery,November,11,42838.85,38017.73,199,40
+RetailPulse South #011,South,Urban,Home & Kitchen,November,11,666393.24,526574.56,233,48
+RetailPulse South #011,South,Urban,Personal Care,November,11,98814.75,73469.82,225,50
+RetailPulse South #011,South,Urban,Stationery,November,11,56829.25,46392.94,206,44
+RetailPulse South #011,South,Urban,Apparel,December,12,287800.2,200859.29,179,43
+RetailPulse South #011,South,Urban,Beverages,December,12,31705.84,27742.15,223,43
+RetailPulse South #011,South,Urban,Electronics,December,12,2354886.13,1981670.49,200,40
+RetailPulse South #011,South,Urban,Grocery,December,12,67824.41,60279.56,247,43
+RetailPulse South #011,South,Urban,Home & Kitchen,December,12,462884.77999999997,361268.32,156,42
+RetailPulse South #011,South,Urban,Personal Care,December,12,84402.5,62456.48,217,45
+RetailPulse South #011,South,Urban,Stationery,December,12,66122.29,52959.82,249,55
+RetailPulse South #014,South,Metro,Apparel,October,10,1167234.74,769668.28,647,51
+RetailPulse South #014,South,Metro,Beverages,October,10,58058.77,51117.64,386,56
+RetailPulse South #014,South,Metro,Electronics,October,10,8946272.55,7761322.61,626,39
+RetailPulse South #014,South,Metro,Grocery,October,10,97923.71,88099.04,358,51
+RetailPulse South #014,South,Metro,Home & Kitchen,October,10,576689.99,456152.37,212,37
+RetailPulse South #014,South,Metro,Personal Care,October,10,103539.7,75915.5,305,48
+RetailPulse South #014,South,Metro,Stationery,October,10,69742.25,57496.29,287,38
+RetailPulse South #014,South,Metro,Apparel,November,11,1084295.91,723246.12,649,56
+RetailPulse South #014,South,Metro,Beverages,November,11,39452.08,34203.01,294,43
+RetailPulse South #014,South,Metro,Electronics,November,11,8179480.5,7067025.27,677,47
+RetailPulse South #014,South,Metro,Grocery,November,11,81719.29000000001,73163.17,352,52
+RetailPulse South #014,South,Metro,Home & Kitchen,November,11,671018.16,519561.02,324,50
+RetailPulse South #014,South,Metro,Personal Care,November,11,130067.74,94700.9,273,37
+RetailPulse South #014,South,Metro,Stationery,November,11,73466.33,60278.25,295,42
+RetailPulse South #014,South,Metro,Apparel,December,12,375954.2,256532.29,257,39
+RetailPulse South #014,South,Metro,Beverages,December,12,50416.36,44879.08,372,53
+RetailPulse South #014,South,Metro,Electronics,December,12,3240422.47,2811963.39,320,46
+RetailPulse South #014,South,Metro,Grocery,December,12,98101.53,87851.34,391,53
+RetailPulse South #014,South,Metro,Home & Kitchen,December,12,952693.51,786453.84,420,60
+RetailPulse South #014,South,Metro,Personal Care,December,12,166862.47,123100.01,404,56
+RetailPulse South #014,South,Metro,Stationery,December,12,86679.91,68512.01,327,50
+RetailPulse South #015,South,Urban,Apparel,October,10,903431.65,596437.58,512,62
+RetailPulse South #015,South,Urban,Beverages,October,10,33799.159999999996,29937.829999999998,250,53
+RetailPulse South #015,South,Urban,Electronics,October,10,6833263.62,5724374.91,521,51
+RetailPulse South #015,South,Urban,Grocery,October,10,58866.25,54037.98,267,51
+RetailPulse South #015,South,Urban,Home & Kitchen,October,10,487982.05,388794.14,201,41
+RetailPulse South #015,South,Urban,Personal Care,October,10,111949.27,82477.0,297,56
+RetailPulse South #015,South,Urban,Stationery,October,10,40204.76,32676.31,190,37
+RetailPulse South #015,South,Urban,Apparel,November,11,588300.16,375682.7,365,48
+RetailPulse South #015,South,Urban,Beverages,November,11,35909.38,32281.67,258,43
+RetailPulse South #015,South,Urban,Electronics,November,11,7804073.44,6474590.34,601,53
+RetailPulse South #015,South,Urban,Grocery,November,11,55900.770000000004,50101.0,227,39
+RetailPulse South #015,South,Urban,Home & Kitchen,November,11,505892.81,391023.47,187,35
+RetailPulse South #015,South,Urban,Personal Care,November,11,86011.05,64114.33,181,42
+RetailPulse South #015,South,Urban,Stationery,November,11,49094.62,38824.340000000004,206,45
+RetailPulse South #015,South,Urban,Apparel,December,12,407912.08999999997,280428.09,249,45
+RetailPulse South #015,South,Urban,Beverages,December,12,37848.9,32556.7,257,49
+RetailPulse South #015,South,Urban,Electronics,December,12,3131682.41,2690917.29,228,45
+RetailPulse South #015,South,Urban,Grocery,December,12,73629.64,65263.68,265,50
+RetailPulse South #015,South,Urban,Home & Kitchen,December,12,773070.91,603798.58,264,48
+RetailPulse South #015,South,Urban,Personal Care,December,12,104588.82,77012.96,239,42
+RetailPulse South #015,South,Urban,Stationery,December,12,54433.93,45081.02,215,45
+RetailPulse South #018,South,Urban,Apparel,October,10,698108.26,464417.7,381,47
+RetailPulse South #018,South,Urban,Beverages,October,10,31121.42,27539.76,215,46
+RetailPulse South #018,South,Urban,Electronics,October,10,6788771.58,5779422.84,549,51
+RetailPulse South #018,South,Urban,Grocery,October,10,50236.87,44697.44,222,53
+RetailPulse South #018,South,Urban,Home & Kitchen,October,10,508565.66,398339.94,188,41
+RetailPulse South #018,South,Urban,Personal Care,October,10,94428.95,70520.32,205,44
+RetailPulse South #018,South,Urban,Stationery,October,10,54270.93,43334.88,218,48
+RetailPulse South #018,South,Urban,Apparel,November,11,551749.53,356639.33,377,41
+RetailPulse South #018,South,Urban,Beverages,November,11,33825.21,28972.77,231,54
+RetailPulse South #018,South,Urban,Electronics,November,11,7163133.51,6326460.33,506,49
+RetailPulse South #018,South,Urban,Grocery,November,11,50793.29,45624.04,198,46
+RetailPulse South #018,South,Urban,Home & Kitchen,November,11,468058.39,365979.79,226,50
+RetailPulse South #018,South,Urban,Personal Care,November,11,92428.92,69483.0,228,55
+RetailPulse South #018,South,Urban,Stationery,November,11,62850.53,50659.18,203,43
+RetailPulse South #018,South,Urban,Apparel,December,12,445960.89,299264.58999999997,253,48
+RetailPulse South #018,South,Urban,Beverages,December,12,30996.6,27172.18,218,47
+RetailPulse South #018,South,Urban,Electronics,December,12,2514523.55,2174419.45,234,52
+RetailPulse South #018,South,Urban,Grocery,December,12,46938.79,41288.89,212,45
+RetailPulse South #018,South,Urban,Home & Kitchen,December,12,311256.72,245325.46,186,39
+RetailPulse South #018,South,Urban,Personal Care,December,12,96540.03,69804.06999999999,211,45
+RetailPulse South #018,South,Urban,Stationery,December,12,48657.12,39568.18,191,43
+RetailPulse South #019,South,Metro,Apparel,October,10,963199.55,643205.42,597,50
+RetailPulse South #019,South,Metro,Beverages,October,10,30406.88,27426.12,262,48
+RetailPulse South #019,South,Metro,Electronics,October,10,6537089.36,5535132.78,583,42
+RetailPulse South #019,South,Metro,Grocery,October,10,86147.72,76578.28,344,53
+RetailPulse South #019,South,Metro,Home & Kitchen,October,10,591771.34,471347.7,233,41
+RetailPulse South #019,South,Metro,Personal Care,October,10,105016.17,77188.48,273,47
+RetailPulse South #019,South,Metro,Stationery,October,10,47829.22,38511.7,182,33
+RetailPulse South #019,South,Metro,Apparel,November,11,625172.64,419230.32,380,41
+RetailPulse South #019,South,Metro,Beverages,November,11,42005.3,36438.88,302,50
+RetailPulse South #019,South,Metro,Electronics,November,11,7806008.1,6644926.09,602,47
+RetailPulse South #019,South,Metro,Grocery,November,11,66987.48,58832.380000000005,259,46
+RetailPulse South #019,South,Metro,Home & Kitchen,November,11,808917.0,613862.15,314,52
+RetailPulse South #019,South,Metro,Personal Care,November,11,152682.33,110006.33,323,55
+RetailPulse South #019,South,Metro,Stationery,November,11,50975.29,41160.94,216,35
+RetailPulse South #019,South,Metro,Apparel,December,12,563586.54,381921.67,339,54
+RetailPulse South #019,South,Metro,Beverages,December,12,43622.69,38006.2,304,52
+RetailPulse South #019,South,Metro,Electronics,December,12,4332439.14,3830109.22,333,54
+RetailPulse South #019,South,Metro,Grocery,December,12,54836.65,48743.19,247,39
+RetailPulse South #019,South,Metro,Home & Kitchen,December,12,740117.36,570757.59,325,55
+RetailPulse South #019,South,Metro,Personal Care,December,12,127725.16,91877.46,288,47
+RetailPulse South #019,South,Metro,Stationery,December,12,67993.56,54724.0,299,52
+RetailPulse South #024,South,Rural,Apparel,October,10,373558.5,242123.66,227,63
+RetailPulse South #024,South,Rural,Beverages,October,10,13467.33,11563.58,97,47
+RetailPulse South #024,South,Rural,Electronics,October,10,3170666.73,2673025.21,240,52
+RetailPulse South #024,South,Rural,Grocery,October,10,17390.22,15810.97,87,45
+RetailPulse South #024,South,Rural,Home & Kitchen,October,10,263112.31,204601.82,108,57
+RetailPulse South #024,South,Rural,Personal Care,October,10,37019.63,26858.79,96,46
+RetailPulse South #024,South,Rural,Stationery,October,10,27325.079999999998,22202.7,111,49
+RetailPulse South #024,South,Rural,Apparel,November,11,362351.05,247462.59,207,53
+RetailPulse South #024,South,Rural,Beverages,November,11,14549.28,12728.6,101,48
+RetailPulse South #024,South,Rural,Electronics,November,11,2915977.23,2521368.45,215,45
+RetailPulse South #024,South,Rural,Grocery,November,11,25024.17,22247.17,96,47
+RetailPulse South #024,South,Rural,Home & Kitchen,November,11,235118.86,183785.27,94,41
+RetailPulse South #024,South,Rural,Personal Care,November,11,53194.58,39315.16,119,52
+RetailPulse South #024,South,Rural,Stationery,November,11,31988.88,26263.42,127,56
+RetailPulse South #024,South,Rural,Apparel,December,12,127496.72,84555.84,81,41
+RetailPulse South #024,South,Rural,Beverages,December,12,15712.97,13674.13,98,45
+RetailPulse South #024,South,Rural,Electronics,December,12,892011.89,754439.01,74,35
+RetailPulse South #024,South,Rural,Grocery,December,12,23759.77,21965.48,91,42
+RetailPulse South #024,South,Rural,Home & Kitchen,December,12,236265.71,188791.58,90,42
+RetailPulse South #024,South,Rural,Personal Care,December,12,37543.08,27574.14,88,45
+RetailPulse South #024,South,Rural,Stationery,December,12,22973.3,18383.82,81,47
+RetailPulse South #025,South,Metro,Apparel,October,10,865545.68,558121.22,534,43
+RetailPulse South #025,South,Metro,Beverages,October,10,42924.23,37393.56,266,42
+RetailPulse South #025,South,Metro,Electronics,October,10,9123363.77,8081964.93,680,44
+RetailPulse South #025,South,Metro,Grocery,October,10,64583.07,57189.02,310,48
+RetailPulse South #025,South,Metro,Home & Kitchen,October,10,813962.01,645955.13,325,49
+RetailPulse South #025,South,Metro,Personal Care,October,10,109434.42,82212.75,269,46
+RetailPulse South #025,South,Metro,Stationery,October,10,95500.84,76590.42,394,55
+RetailPulse South #025,South,Metro,Apparel,November,11,952252.6,661166.99,538,42
+RetailPulse South #025,South,Metro,Beverages,November,11,43452.25,37616.58,245,38
+RetailPulse South #025,South,Metro,Electronics,November,11,7487293.29,6514487.18,703,49
+RetailPulse South #025,South,Metro,Grocery,November,11,68954.18,61558.15,309,55
+RetailPulse South #025,South,Metro,Home & Kitchen,November,11,917031.92,712958.06,339,50
+RetailPulse South #025,South,Metro,Personal Care,November,11,125349.48999999999,88701.23,316,51
+RetailPulse South #025,South,Metro,Stationery,November,11,60414.94,49595.08,245,34
+RetailPulse South #025,South,Metro,Apparel,December,12,493152.68,331963.36,276,44
+RetailPulse South #025,South,Metro,Beverages,December,12,38577.52,33151.59,275,44
+RetailPulse South #025,South,Metro,Electronics,December,12,2919826.91,2534589.51,253,37
+RetailPulse South #025,South,Metro,Grocery,December,12,80683.59,71121.39,334,43
+RetailPulse South #025,South,Metro,Home & Kitchen,December,12,757981.61,610293.82,327,50
+RetailPulse South #025,South,Metro,Personal Care,December,12,115636.72,84069.85,275,40
+RetailPulse South #025,South,Metro,Stationery,December,12,81865.35,67691.84,323,48
+RetailPulse South #031,South,Metro,Apparel,October,10,1237522.82,837664.3,705,53
+RetailPulse South #031,South,Metro,Beverages,October,10,34701.31,29527.15,302,45
+RetailPulse South #031,South,Metro,Electronics,October,10,11071893.41,9203298.29,868,52
+RetailPulse South #031,South,Metro,Grocery,October,10,88264.71,77936.91,375,52
+RetailPulse South #031,South,Metro,Home & Kitchen,October,10,724160.09,567580.14,288,43
+RetailPulse South #031,South,Metro,Personal Care,October,10,129109.08,93717.36,311,38
+RetailPulse South #031,South,Metro,Stationery,October,10,81723.16,66247.4,294,44
+RetailPulse South #031,South,Metro,Apparel,November,11,705925.58,484551.36,501,38
+RetailPulse South #031,South,Metro,Beverages,November,11,62024.78,53787.47,410,59
+RetailPulse South #031,South,Metro,Electronics,November,11,12213673.62,10325088.13,811,52
+RetailPulse South #031,South,Metro,Grocery,November,11,60218.49,54337.36,247,38
+RetailPulse South #031,South,Metro,Home & Kitchen,November,11,703869.26,553392.08,276,39
+RetailPulse South #031,South,Metro,Personal Care,November,11,121656.04,88412.39,301,44
+RetailPulse South #031,South,Metro,Stationery,November,11,99673.77,79477.19,345,48
+RetailPulse South #031,South,Metro,Apparel,December,12,479798.38,317289.23,277,39
+RetailPulse South #031,South,Metro,Beverages,December,12,40632.11,35988.24,327,49
+RetailPulse South #031,South,Metro,Electronics,December,12,4298707.12,3653777.8,354,57
+RetailPulse South #031,South,Metro,Grocery,December,12,102634.68,91643.45,394,57
+RetailPulse South #031,South,Metro,Home & Kitchen,December,12,848754.61,644560.33,323,43
+RetailPulse South #031,South,Metro,Personal Care,December,12,139042.61000000002,103384.11,317,44
+RetailPulse South #031,South,Metro,Stationery,December,12,93023.15,75270.06999999999,402,55
+RetailPulse South #037,South,Suburban,Apparel,October,10,723912.62,471626.94,426,61
+RetailPulse South #037,South,Suburban,Beverages,October,10,23010.13,20100.38,160,43
+RetailPulse South #037,South,Suburban,Electronics,October,10,5788736.41,5113231.66,478,59
+RetailPulse South #037,South,Suburban,Grocery,October,10,38809.15,34623.21,168,50
+RetailPulse South #037,South,Suburban,Home & Kitchen,October,10,427611.84,335228.76,181,46
+RetailPulse South #037,South,Suburban,Personal Care,October,10,90378.86,67484.27,187,50
+RetailPulse South #037,South,Suburban,Stationery,October,10,60488.58,49133.51,228,60
+RetailPulse South #037,South,Suburban,Apparel,November,11,569636.63,385072.12,335,45
+RetailPulse South #037,South,Suburban,Beverages,November,11,25689.44,22610.32,180,52
+RetailPulse South #037,South,Suburban,Electronics,November,11,5085621.49,4365547.16,365,41
+RetailPulse South #037,South,Suburban,Grocery,November,11,35439.48,31924.85,154,41
+RetailPulse South #037,South,Suburban,Home & Kitchen,November,11,444248.37,353590.23,187,55
+RetailPulse South #037,South,Suburban,Personal Care,November,11,64792.61,46013.37,143,38
+RetailPulse South #037,South,Suburban,Stationery,November,11,37284.7,29989.6,149,38
+RetailPulse South #037,South,Suburban,Apparel,December,12,293289.88,192219.16,176,41
+RetailPulse South #037,South,Suburban,Beverages,December,12,30658.1,26665.39,164,39
+RetailPulse South #037,South,Suburban,Electronics,December,12,2258754.36,1912431.0,196,47
+RetailPulse South #037,South,Suburban,Grocery,December,12,38721.14,34922.93,149,41
+RetailPulse South #037,South,Suburban,Home & Kitchen,December,12,353862.99,271302.23,149,38
+RetailPulse South #037,South,Suburban,Personal Care,December,12,76728.53,55796.23,171,45
+RetailPulse South #037,South,Suburban,Stationery,December,12,57031.58,46719.15,214,60
+RetailPulse South #042,South,Rural,Apparel,October,10,310326.39,203747.18,189,49
+RetailPulse South #042,South,Rural,Beverages,October,10,17191.37,14857.64,117,52
+RetailPulse South #042,South,Rural,Electronics,October,10,3672492.42,3079341.88,274,53
+RetailPulse South #042,South,Rural,Grocery,October,10,25800.33,23245.96,114,51
+RetailPulse South #042,South,Rural,Home & Kitchen,October,10,304712.24,234347.88999999998,95,41
+RetailPulse South #042,South,Rural,Personal Care,October,10,42823.92,31607.89,112,49
+RetailPulse South #042,South,Rural,Stationery,October,10,24030.71,19440.7,96,39
+RetailPulse South #042,South,Rural,Apparel,November,11,345637.3,232344.7,211,51
+RetailPulse South #042,South,Rural,Beverages,November,11,20126.79,17063.45,126,52
+RetailPulse South #042,South,Rural,Electronics,November,11,2946186.5,2502317.06,235,44
+RetailPulse South #042,South,Rural,Grocery,November,11,22608.75,20270.899999999998,87,45
+RetailPulse South #042,South,Rural,Home & Kitchen,November,11,179225.28,136989.85,84,46
+RetailPulse South #042,South,Rural,Personal Care,November,11,50031.25,37114.55,110,51
+RetailPulse South #042,South,Rural,Stationery,November,11,23822.56,19618.82,97,41
+RetailPulse South #042,South,Rural,Apparel,December,12,150571.02,101825.08,93,46
+RetailPulse South #042,South,Rural,Beverages,December,12,16942.77,14611.71,102,53
+RetailPulse South #042,South,Rural,Electronics,December,12,1009152.64,862300.4,89,41
+RetailPulse South #042,South,Rural,Grocery,December,12,22516.05,19575.42,89,42
+RetailPulse South #042,South,Rural,Home & Kitchen,December,12,205823.55,154795.1,87,42
+RetailPulse South #042,South,Rural,Personal Care,December,12,50791.04,37202.49,126,54
+RetailPulse South #042,South,Rural,Stationery,December,12,32936.71,26161.92,117,59
+RetailPulse South #048,South,Metro,Apparel,October,10,997709.13,682601.86,557,53
+RetailPulse South #048,South,Metro,Beverages,October,10,61464.48,53316.82,374,57
+RetailPulse South #048,South,Metro,Electronics,October,10,8039099.46,6976759.5,607,43
+RetailPulse South #048,South,Metro,Grocery,October,10,65643.54,57959.42,301,49
+RetailPulse South #048,South,Metro,Home & Kitchen,October,10,872893.09,679456.79,300,45
+RetailPulse South #048,South,Metro,Personal Care,October,10,103709.18,76051.3,300,43
+RetailPulse South #048,South,Metro,Stationery,October,10,73267.85,59379.78,305,47
+RetailPulse South #048,South,Metro,Apparel,November,11,695099.03,458150.4,453,42
+RetailPulse South #048,South,Metro,Beverages,November,11,41967.65,36194.34,287,46
+RetailPulse South #048,South,Metro,Electronics,November,11,11525495.23,9925888.61,841,57
+RetailPulse South #048,South,Metro,Grocery,November,11,76342.55,66859.73,330,51
+RetailPulse South #048,South,Metro,Home & Kitchen,November,11,841739.31,662697.15,353,54
+RetailPulse South #048,South,Metro,Personal Care,November,11,143213.38,109770.28,309,56
+RetailPulse South #048,South,Metro,Stationery,November,11,64464.23,52324.76,238,38
+RetailPulse South #048,South,Metro,Apparel,December,12,443590.71,291404.31,286,45
+RetailPulse South #048,South,Metro,Beverages,December,12,33847.48,29183.48,241,40
+RetailPulse South #048,South,Metro,Electronics,December,12,4855218.19,4159341.48,335,52
+RetailPulse South #048,South,Metro,Grocery,December,12,72185.63,64581.44,312,47
+RetailPulse South #048,South,Metro,Home & Kitchen,December,12,651316.66,498482.79,293,47
+RetailPulse South #048,South,Metro,Personal Care,December,12,206038.82,152359.9,492,67
+RetailPulse South #048,South,Metro,Stationery,December,12,69358.45,56120.28,304,45
+RetailPulse South #049,South,Urban,Apparel,October,10,693645.0,463322.3,395,57
+RetailPulse South #049,South,Urban,Beverages,October,10,35761.35,31098.25,244,53
+RetailPulse South #049,South,Urban,Electronics,October,10,6461272.35,5525504.7,543,58
+RetailPulse South #049,South,Urban,Grocery,October,10,43424.16,40633.66,210,50
+RetailPulse South #049,South,Urban,Home & Kitchen,October,10,500520.29,405206.76,226,52
+RetailPulse South #049,South,Urban,Personal Care,October,10,90909.61,65888.15,221,50
+RetailPulse South #049,South,Urban,Stationery,October,10,53181.479999999996,42569.72,232,54
+RetailPulse South #049,South,Urban,Apparel,November,11,560008.97,368316.5,340,49
+RetailPulse South #049,South,Urban,Beverages,November,11,33250.68,28840.55,256,60
+RetailPulse South #049,South,Urban,Electronics,November,11,4710272.4,4065445.84,419,42
+RetailPulse South #049,South,Urban,Grocery,November,11,44144.27,39146.02,191,48
+RetailPulse South #049,South,Urban,Home & Kitchen,November,11,322517.33,258996.76,137,32
+RetailPulse South #049,South,Urban,Personal Care,November,11,101396.83,74316.7,254,56
+RetailPulse South #049,South,Urban,Stationery,November,11,55381.34,43994.48,215,50
+RetailPulse South #049,South,Urban,Apparel,December,12,358141.56,241174.59,207,55
+RetailPulse South #049,South,Urban,Beverages,December,12,37617.92,33118.86,216,50
+RetailPulse South #049,South,Urban,Electronics,December,12,3754549.26,3259073.5,256,56
+RetailPulse South #049,South,Urban,Grocery,December,12,57561.2,51555.63,232,50
+RetailPulse South #049,South,Urban,Home & Kitchen,December,12,401403.88,324990.38,178,41
+RetailPulse South #049,South,Urban,Personal Care,December,12,86106.25,62625.19,213,47
+RetailPulse South #049,South,Urban,Stationery,December,12,47757.86,38537.25,202,48
+RetailPulse West #003,West,Metro,Apparel,October,10,1109494.46,738153.29,645,55
+RetailPulse West #003,West,Metro,Beverages,October,10,32375.36,27657.77,245,43
+RetailPulse West #003,West,Metro,Electronics,October,10,9624230.82,8327905.26,726,56
+RetailPulse West #003,West,Metro,Grocery,October,10,76783.48,69303.89,304,47
+RetailPulse West #003,West,Metro,Home & Kitchen,October,10,722642.79,560268.98,296,46
+RetailPulse West #003,West,Metro,Personal Care,October,10,145425.39,106691.39,313,58
+RetailPulse West #003,West,Metro,Stationery,October,10,83222.53,68001.19,331,56
+RetailPulse West #003,West,Metro,Apparel,November,11,631597.64,420522.09,364,43
+RetailPulse West #003,West,Metro,Beverages,November,11,36077.02,31361.59,228,41
+RetailPulse West #003,West,Metro,Electronics,November,11,9615230.9,8208690.41,673,52
+RetailPulse West #003,West,Metro,Grocery,November,11,56040.18,49993.18,233,36
+RetailPulse West #003,West,Metro,Home & Kitchen,November,11,722560.75,552906.66,255,42
+RetailPulse West #003,West,Metro,Personal Care,November,11,113301.47,82585.81,261,44
+RetailPulse West #003,West,Metro,Stationery,November,11,78541.33,63797.04,301,48
+RetailPulse West #003,West,Metro,Apparel,December,12,478505.94,328350.68,288,50
+RetailPulse West #003,West,Metro,Beverages,December,12,60622.18,52626.38,364,64
+RetailPulse West #003,West,Metro,Electronics,December,12,3620279.21,3060966.96,267,44
+RetailPulse West #003,West,Metro,Grocery,December,12,67509.46,60346.46,301,54
+RetailPulse West #003,West,Metro,Home & Kitchen,December,12,779785.04,634266.41,357,58
+RetailPulse West #003,West,Metro,Personal Care,December,12,138150.13,102573.61,304,49
+RetailPulse West #003,West,Metro,Stationery,December,12,70881.69,58089.05,271,51
+RetailPulse West #021,West,Rural,Apparel,October,10,245034.4,155614.66,131,35
+RetailPulse West #021,West,Rural,Beverages,October,10,16972.23,14620.01,115,49
+RetailPulse West #021,West,Rural,Electronics,October,10,4020718.41,3371061.17,287,57
+RetailPulse West #021,West,Rural,Grocery,October,10,17095.81,15713.69,85,40
+RetailPulse West #021,West,Rural,Home & Kitchen,October,10,377238.24,294864.45,140,53
+RetailPulse West #021,West,Rural,Personal Care,October,10,34166.21,26303.31,68,31
+RetailPulse West #021,West,Rural,Stationery,October,10,23187.38,18456.170000000002,90,48
+RetailPulse West #021,West,Rural,Apparel,November,11,293854.41,195883.75,163,42
+RetailPulse West #021,West,Rural,Beverages,November,11,13443.94,11402.69,90,44
+RetailPulse West #021,West,Rural,Electronics,November,11,3646889.07,3137316.21,241,45
+RetailPulse West #021,West,Rural,Grocery,November,11,29046.04,25460.47,130,56
+RetailPulse West #021,West,Rural,Home & Kitchen,November,11,295333.78,232540.56,110,49
+RetailPulse West #021,West,Rural,Personal Care,November,11,51321.1,38688.19,114,52
+RetailPulse West #021,West,Rural,Stationery,November,11,34643.03,28560.29,145,59
+RetailPulse West #021,West,Rural,Apparel,December,12,186269.36000000002,126117.18,104,50
+RetailPulse West #021,West,Rural,Beverages,December,12,13521.09,11883.87,103,46
+RetailPulse West #021,West,Rural,Electronics,December,12,1207765.41,1073104.78,91,38
+RetailPulse West #021,West,Rural,Grocery,December,12,25489.4,23187.94,116,52
+RetailPulse West #021,West,Rural,Home & Kitchen,December,12,279422.57,224376.81,124,57
+RetailPulse West #021,West,Rural,Personal Care,December,12,46891.25,34751.8,134,52
+RetailPulse West #021,West,Rural,Stationery,December,12,29564.41,23563.79,122,57
+RetailPulse West #022,West,Rural,Apparel,October,10,222912.73,146582.01,149,44
+RetailPulse West #022,West,Rural,Beverages,October,10,12525.84,11031.78,84,45
+RetailPulse West #022,West,Rural,Electronics,October,10,3573315.74,3003485.3,265,54
+RetailPulse West #022,West,Rural,Grocery,October,10,19969.12,17944.53,95,39
+RetailPulse West #022,West,Rural,Home & Kitchen,October,10,206601.24,161900.04,81,42
+RetailPulse West #022,West,Rural,Personal Care,October,10,37889.38,27963.97,97,50
+RetailPulse West #022,West,Rural,Stationery,October,10,22582.75,18150.32,80,40
+RetailPulse West #022,West,Rural,Apparel,November,11,262939.36,173914.78,162,36
+RetailPulse West #022,West,Rural,Beverages,November,11,13877.17,12112.05,99,50
+RetailPulse West #022,West,Rural,Electronics,November,11,2869968.76,2444545.0,231,52
+RetailPulse West #022,West,Rural,Grocery,November,11,24482.38,21947.88,92,43
+RetailPulse West #022,West,Rural,Home & Kitchen,November,11,290059.81,222617.61000000002,121,55
+RetailPulse West #022,West,Rural,Personal Care,November,11,45051.97,33086.23,112,49
+RetailPulse West #022,West,Rural,Stationery,November,11,20232.3,16071.75,78,42
+RetailPulse West #022,West,Rural,Apparel,December,12,154751.24,100986.13,98,51
+RetailPulse West #022,West,Rural,Beverages,December,12,10932.28,9592.36,87,44
+RetailPulse West #022,West,Rural,Electronics,December,12,768558.67,666065.76,69,37
+RetailPulse West #022,West,Rural,Grocery,December,12,18765.03,17163.45,80,38
+RetailPulse West #022,West,Rural,Home & Kitchen,December,12,308629.97,247406.0,130,57
+RetailPulse West #022,West,Rural,Personal Care,December,12,43170.71,31979.77,91,46
+RetailPulse West #022,West,Rural,Stationery,December,12,27568.72,22635.48,105,58
+RetailPulse West #027,West,Suburban,Apparel,October,10,550375.56,360939.88,306,42
+RetailPulse West #027,West,Suburban,Beverages,October,10,28527.079999999998,25271.51,209,56
+RetailPulse West #027,West,Suburban,Electronics,October,10,4795364.63,4025460.55,361,48
+RetailPulse West #027,West,Suburban,Grocery,October,10,28186.64,24961.32,129,44
+RetailPulse West #027,West,Suburban,Home & Kitchen,October,10,458851.27,351841.82,189,53
+RetailPulse West #027,West,Suburban,Personal Care,October,10,74081.38,54934.22,188,54
+RetailPulse West #027,West,Suburban,Stationery,October,10,37136.69,30759.86,156,47
+RetailPulse West #027,West,Suburban,Apparel,November,11,578190.0599999999,385065.43,374,55
+RetailPulse West #027,West,Suburban,Beverages,November,11,25932.69,21693.64,167,48
+RetailPulse West #027,West,Suburban,Electronics,November,11,5515021.15,4821901.12,416,56
+RetailPulse West #027,West,Suburban,Grocery,November,11,25946.18,23228.3,133,41
+RetailPulse West #027,West,Suburban,Home & Kitchen,November,11,363289.66,291463.11,158,42
+RetailPulse West #027,West,Suburban,Personal Care,November,11,52658.03,37954.5,123,38
+RetailPulse West #027,West,Suburban,Stationery,November,11,48774.88,39479.9,157,47
+RetailPulse West #027,West,Suburban,Apparel,December,12,341042.04,229371.22,210,55
+RetailPulse West #027,West,Suburban,Beverages,December,12,21135.26,18384.06,153,46
+RetailPulse West #027,West,Suburban,Electronics,December,12,3064777.12,2628747.19,211,57
+RetailPulse West #027,West,Suburban,Grocery,December,12,34685.56,31411.29,159,51
+RetailPulse West #027,West,Suburban,Home & Kitchen,December,12,369480.91,300942.69,154,55
+RetailPulse West #027,West,Suburban,Personal Care,December,12,63628.64,48077.31,144,46
+RetailPulse West #027,West,Suburban,Stationery,December,12,43210.2,35188.88,162,50
+RetailPulse West #030,West,Metro,Apparel,October,10,792836.28,537877.22,518,40
+RetailPulse West #030,West,Metro,Beverages,October,10,37934.49,32827.61,310,45
+RetailPulse West #030,West,Metro,Electronics,October,10,9422570.0,8282349.62,687,50
+RetailPulse West #030,West,Metro,Grocery,October,10,86073.77,75574.21,348,55
+RetailPulse West #030,West,Metro,Home & Kitchen,October,10,833573.96,660793.34,337,52
+RetailPulse West #030,West,Metro,Personal Care,October,10,117731.02,87699.34,274,41
+RetailPulse West #030,West,Metro,Stationery,October,10,85158.77,68424.52,336,49
+RetailPulse West #030,West,Metro,Apparel,November,11,1110709.71,727759.66,685,53
+RetailPulse West #030,West,Metro,Beverages,November,11,54022.01,46558.6,307,46
+RetailPulse West #030,West,Metro,Electronics,November,11,9644782.85,8283286.24,759,56
+RetailPulse West #030,West,Metro,Grocery,November,11,77245.6,69603.68,290,43
+RetailPulse West #030,West,Metro,Home & Kitchen,November,11,903149.54,697718.49,346,46
+RetailPulse West #030,West,Metro,Personal Care,November,11,113483.24,82785.55,285,39
+RetailPulse West #030,West,Metro,Stationery,November,11,80657.16,66845.72,296,48
+RetailPulse West #030,West,Metro,Apparel,December,12,726753.35,488359.33,414,58
+RetailPulse West #030,West,Metro,Beverages,December,12,44242.85,39297.26,312,45
+RetailPulse West #030,West,Metro,Electronics,December,12,4091382.65,3519086.63,305,50
+RetailPulse West #030,West,Metro,Grocery,December,12,84780.89,76781.97,376,55
+RetailPulse West #030,West,Metro,Home & Kitchen,December,12,1060049.65,842064.21,358,55
+RetailPulse West #030,West,Metro,Personal Care,December,12,156321.42,115364.63,374,58
+RetailPulse West #030,West,Metro,Stationery,December,12,95349.18,75801.35,355,50
+RetailPulse West #032,West,Urban,Apparel,October,10,839911.69,557663.29,487,57
+RetailPulse West #032,West,Urban,Beverages,October,10,29428.54,25858.35,219,47
+RetailPulse West #032,West,Urban,Electronics,October,10,5500318.38,4737394.34,489,47
+RetailPulse West #032,West,Urban,Grocery,October,10,48106.49,42267.24,175,50
+RetailPulse West #032,West,Urban,Home & Kitchen,October,10,527809.14,412764.06,259,60
+RetailPulse West #032,West,Urban,Personal Care,October,10,90996.25,68217.23,193,45
+RetailPulse West #032,West,Urban,Stationery,October,10,47369.63,38260.55,216,47
+RetailPulse West #032,West,Urban,Apparel,November,11,847481.9299999999,567591.6900000001,489,55
+RetailPulse West #032,West,Urban,Beverages,November,11,29179.58,24412.47,179,37
+RetailPulse West #032,West,Urban,Electronics,November,11,8896354.16,7715100.59,600,56
+RetailPulse West #032,West,Urban,Grocery,November,11,40824.85,37564.520000000004,177,43
+RetailPulse West #032,West,Urban,Home & Kitchen,November,11,631987.37,499250.4,259,54
+RetailPulse West #032,West,Urban,Personal Care,November,11,68853.48,51123.44,141,33
+RetailPulse West #032,West,Urban,Stationery,November,11,72667.25,59404.01,244,54
+RetailPulse West #032,West,Urban,Apparel,December,12,354638.67,237371.47,214,47
+RetailPulse West #032,West,Urban,Beverages,December,12,42815.94,36724.9,246,52
+RetailPulse West #032,West,Urban,Electronics,December,12,2849501.41,2404862.86,217,48
+RetailPulse West #032,West,Urban,Grocery,December,12,71542.91,63528.21,305,60
+RetailPulse West #032,West,Urban,Home & Kitchen,December,12,528794.9,411181.65,231,48
+RetailPulse West #032,West,Urban,Personal Care,December,12,120984.73,87953.0,285,61
+RetailPulse West #032,West,Urban,Stationery,December,12,71538.48,57420.16,245,48
+RetailPulse West #046,West,Suburban,Apparel,October,10,490110.11,332224.23,320,49
+RetailPulse West #046,West,Suburban,Beverages,October,10,23848.53,20242.97,141,42
+RetailPulse West #046,West,Suburban,Electronics,October,10,5556261.66,4731727.68,470,53
+RetailPulse West #046,West,Suburban,Grocery,October,10,28599.65,26251.1,124,33
+RetailPulse West #046,West,Suburban,Home & Kitchen,October,10,325943.47,268273.53,144,38
+RetailPulse West #046,West,Suburban,Personal Care,October,10,55664.67,39990.35,141,43
+RetailPulse West #046,West,Suburban,Stationery,October,10,30602.25,26271.19,132,35
+RetailPulse West #046,West,Suburban,Apparel,November,11,552331.91,367698.14,326,48
+RetailPulse West #046,West,Suburban,Beverages,November,11,33557.13,28940.0,210,67
+RetailPulse West #046,West,Suburban,Electronics,November,11,4228842.66,3637589.46,328,43
+RetailPulse West #046,West,Suburban,Grocery,November,11,35149.39,31555.65,144,44
+RetailPulse West #046,West,Suburban,Home & Kitchen,November,11,512800.14999999997,394830.9,188,51
+RetailPulse West #046,West,Suburban,Personal Care,November,11,67687.72,49201.66,158,48
+RetailPulse West #046,West,Suburban,Stationery,November,11,50305.6,41066.43,182,56
+RetailPulse West #046,West,Suburban,Apparel,December,12,232930.17,158699.6,151,43
+RetailPulse West #046,West,Suburban,Beverages,December,12,26727.44,23048.13,188,50
+RetailPulse West #046,West,Suburban,Electronics,December,12,2351996.95,2003905.81,168,44
+RetailPulse West #046,West,Suburban,Grocery,December,12,66867.21,59216.14,250,66
+RetailPulse West #046,West,Suburban,Home & Kitchen,December,12,430958.25,338956.86,190,53
+RetailPulse West #046,West,Suburban,Personal Care,December,12,96451.54,69817.33,201,56
+RetailPulse West #046,West,Suburban,Stationery,December,12,48730.77,40341.37,198,54
+RetailPulse West #047,West,Suburban,Apparel,October,10,454257.27,315777.34,317,44
+RetailPulse West #047,West,Suburban,Beverages,October,10,26823.99,23192.0,185,46
+RetailPulse West #047,West,Suburban,Electronics,October,10,5817061.14,4954574.65,447,45
+RetailPulse West #047,West,Suburban,Grocery,October,10,52631.81,45646.85,192,44
+RetailPulse West #047,West,Suburban,Home & Kitchen,October,10,590472.67,451061.73,229,61
+RetailPulse West #047,West,Suburban,Personal Care,October,10,73561.63,53750.72,179,50
+RetailPulse West #047,West,Suburban,Stationery,October,10,46634.72,37313.11,173,41
+RetailPulse West #047,West,Suburban,Apparel,November,11,349885.28,239690.16999999998,282,38
+RetailPulse West #047,West,Suburban,Beverages,November,11,41837.54,35901.93,230,48
+RetailPulse West #047,West,Suburban,Electronics,November,11,4512983.98,3753005.37,353,45
+RetailPulse West #047,West,Suburban,Grocery,November,11,37722.24,34196.0,169,42
+RetailPulse West #047,West,Suburban,Home & Kitchen,November,11,516889.52,401931.55,216,59
+RetailPulse West #047,West,Suburban,Personal Care,November,11,83095.01,59894.47,199,48
+RetailPulse West #047,West,Suburban,Stationery,November,11,42555.8,34101.94,178,47
+RetailPulse West #047,West,Suburban,Apparel,December,12,360081.99,243866.17,223,52
+RetailPulse West #047,West,Suburban,Beverages,December,12,29008.38,25050.43,176,40
+RetailPulse West #047,West,Suburban,Electronics,December,12,2895663.91,2461405.59,228,51
+RetailPulse West #047,West,Suburban,Grocery,December,12,32318.15,28705.14,150,45
+RetailPulse West #047,West,Suburban,Home & Kitchen,December,12,618571.39,497927.51,228,50
+RetailPulse West #047,West,Suburban,Personal Care,December,12,77703.21,55484.72,177,49
+RetailPulse West #047,West,Suburban,Stationery,December,12,42659.72,34373.91,174,44

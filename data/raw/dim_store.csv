@@ -1,0 +1,56 @@
+store_id,store_name,region,city,store_type,opening_date,demand_multiplier
+1,RetailPulse South #001,South,North Judithbury,Rural,2021-06-07,0.547
+2,RetailPulse North #002,North,Lake Joyside,Rural,2020-11-20,0.791
+3,RetailPulse West #003,West,Johnsonland,Metro,2021-05-31,1.473
+4,RetailPulse South #004,South,New Jamesside,Urban,2022-03-20,1.142
+5,RetailPulse East #005,East,Lawrencetown,Suburban,2023-07-29,0.978
+6,RetailPulse East #006,East,Lake Roberto,Metro,2021-08-25,1.426
+7,RetailPulse South #007,South,Port Matthew,Metro,2020-11-28,1.674
+8,RetailPulse North #008,North,West Melanieview,Rural,2023-10-08,0.656
+9,RetailPulse East #009,East,Herrerafurt,Metro,2020-11-08,1.788
+10,RetailPulse East #010,East,Mariastad,Rural,2022-11-06,0.598
+11,RetailPulse South #011,South,North Donnaport,Urban,2024-06-24,1.207
+12,RetailPulse North #012,North,Port Craig,Suburban,2021-08-26,1.032
+13,RetailPulse North #013,North,Franciscostad,Suburban,2021-05-18,1.031
+14,RetailPulse South #014,South,Jacquelineland,Metro,2022-12-22,1.745
+15,RetailPulse South #015,South,New Jessica,Urban,2021-03-11,1.291
+16,RetailPulse North #016,North,Nelsonside,Suburban,2021-06-01,1.031
+17,RetailPulse East #017,East,Meganton,Urban,2021-06-15,1.132
+18,RetailPulse South #018,South,Port Leslieview,Urban,2020-10-20,1.175
+19,RetailPulse South #019,South,Jasonfort,Metro,2022-02-14,1.516
+20,RetailPulse East #020,East,Thomasberg,Rural,2021-07-11,0.662
+21,RetailPulse West #021,West,Juliechester,Rural,2024-02-17,0.628
+22,RetailPulse West #022,West,Coxberg,Rural,2022-07-30,0.567
+23,RetailPulse North #023,North,Port Brandonville,Urban,2021-02-24,1.197
+24,RetailPulse South #024,South,Port Erin,Rural,2022-12-04,0.59
+25,RetailPulse South #025,South,Jamesmouth,Metro,2022-08-28,1.644
+26,RetailPulse Central #026,Central,Lake Jenniferside,Metro,2023-07-18,1.458
+27,RetailPulse West #027,West,Danielchester,Suburban,2021-03-04,0.91
+28,RetailPulse East #028,East,Lake Nancyview,Urban,2024-06-04,1.351
+29,RetailPulse North #029,North,New Rita,Urban,2024-01-08,1.105
+30,RetailPulse West #030,West,Meaganhaven,Metro,2022-12-22,1.676
+31,RetailPulse South #031,South,West Kathryn,Metro,2022-09-12,1.77
+32,RetailPulse West #032,West,New Mariotown,Urban,2020-12-26,1.173
+33,RetailPulse Central #033,Central,Natashaport,Suburban,2021-06-30,1.018
+34,RetailPulse Central #034,Central,New Stacey,Suburban,2020-11-18,0.848
+35,RetailPulse East #035,East,Cabreraside,Metro,2023-08-08,1.441
+36,RetailPulse East #036,East,Lake Thomas,Suburban,2022-09-27,1.014
+37,RetailPulse South #037,South,Allisonchester,Suburban,2024-05-24,0.997
+38,RetailPulse North #038,North,Lake Larry,Urban,2024-07-08,1.173
+39,RetailPulse Central #039,Central,Samuelhaven,Suburban,2022-05-06,0.973
+40,RetailPulse North #040,North,East Caleb,Suburban,2020-08-15,0.994
+41,RetailPulse Central #041,Central,New Jeffrey,Rural,2020-10-27,0.778
+42,RetailPulse South #042,South,East Carloston,Rural,2023-12-23,0.616
+43,RetailPulse Central #043,Central,New Johnfort,Urban,2021-05-24,1.267
+44,RetailPulse East #044,East,Lake Selena,Metro,2022-10-28,1.646
+45,RetailPulse Central #045,Central,Sanchezfort,Suburban,2023-10-08,0.908
+46,RetailPulse West #046,West,North Collin,Suburban,2022-04-06,0.953
+47,RetailPulse West #047,West,Jenkinston,Suburban,2023-03-26,1.067
+48,RetailPulse South #048,South,North Richardmouth,Metro,2023-09-28,1.631
+49,RetailPulse South #049,South,East Jamesside,Urban,2022-05-02,1.111
+50,RetailPulse North #050,North,Whitemouth,Urban,2021-07-15,1.165
+51,RetailPulse North #051,North,South Lindseyside,Urban,2020-12-06,1.291
+52,RetailPulse East #052,East,North Sarabury,Urban,2021-03-15,1.181
+53,RetailPulse North #053,North,Olsonfurt,Rural,2024-02-24,0.552
+54,RetailPulse North #054,North,South Aaron,Urban,2022-02-06,1.314
+55,RetailPulse Central #055,Central,Mitchellside,Suburban,2023-03-09,0.926

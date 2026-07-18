@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Ignore generated SQLite database.
+# Rebuild locally using the project scripts if needed.
+retailpulse.db

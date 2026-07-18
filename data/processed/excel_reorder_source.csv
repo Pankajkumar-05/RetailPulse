@@ -1,0 +1,31 @@
+product_name,category,stock_on_hand,reorder_level,supplier_name,lead_time_days
+ELEC-Family-109,Electronics,2,7,Wagner-King,14
+GROC-Public-8,Grocery,4,7,Adkins Inc,3
+BEVE-Home-471,Beverages,4,7,Jones Inc,7
+GROC-About-4,Grocery,5,7,Adkins Inc,3
+HOME-Then-303,Home & Kitchen,5,7,Riley PLC,3
+STAT-Rather-541,Stationery,5,7,"Edwards, Baker and Anderson",7
+GROC-Offer-25,Grocery,6,7,"Hensley, Powell and David",5
+APPA-Official-199,Apparel,6,7,Harris-Walters,3
+HOME-Wait-300,Home & Kitchen,6,7,"Sanchez, Wheeler and Harvey",5
+PERS-Claim-342,Personal Care,6,7,Donovan-Harris,5
+PERS-Me-368,Personal Care,6,7,"Smith, Montoya and Evans",21
+PERS-Because-414,Personal Care,6,7,Sandoval-Cunningham,7
+BEVE-Make-467,Beverages,6,7,"Evans, Stewart and Walton",10
+BEVE-Spring-503,Beverages,6,7,Smith PLC,3
+ELEC-Police-139,Electronics,7,7,Jones Inc,7
+APPA-Thus-171,Apparel,7,7,"Garcia, Humphrey and Baker",5
+APPA-These-200,Apparel,7,7,"Moore, Yu and Miller",7
+HOME-Physical-292,Home & Kitchen,7,7,Davis Group,14
+HOME-Cold-308,Home & Kitchen,7,7,"Turner, Riggs and Roman",21
+BEVE-Rate-446,Beverages,7,7,Sandoval-Cunningham,7
+STAT-Stay-512,Stationery,7,7,Moore-Bass,7
+GROC-Option-16,Grocery,8,7,"Hensley, Powell and David",5
+ELEC-Ability-150,Electronics,8,7,"Smith, Montoya and Evans",21
+APPA-Popular-245,Apparel,8,7,Moore-Bass,7
+PERS-Man-350,Personal Care,8,7,Sandoval-Cunningham,7
+PERS-Central-417,Personal Care,8,7,Harris-Walters,3
+BEVE-Hundred-431,Beverages,8,7,Harris-Walters,3
+BEVE-Fall-432,Beverages,8,7,Anderson-Bailey,21
+STAT-System-544,Stationery,8,7,"Sanchez, Wheeler and Harvey",5
+STAT-Person-553,Stationery,8,7,"Edwards, Baker and Anderson",7

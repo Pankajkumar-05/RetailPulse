@@ -1,0 +1,16 @@
+[2026-07-17 16:39:02] ============================================================
+[2026-07-17 16:39:02] RETAILPULSE AUTOMATION PIPELINE - RUN START
+[2026-07-17 16:39:02] ============================================================
+[2026-07-17 16:39:02] STEP: Loading CSVs into SQLite...
+[2026-07-17 16:39:02]   Loaded dim_store: 55 rows
+[2026-07-17 16:39:02]   Loaded dim_supplier: 25 rows
+[2026-07-17 16:39:02]   Loaded dim_product: 595 rows
+[2026-07-17 16:39:03]   Loaded dim_date: 1,096 rows
+[2026-07-17 16:39:08]   Loaded fact_sales: 550,310 rows
+[2026-07-17 16:39:11]   Loaded fact_inventory: 772,418 rows
+[2026-07-17 16:39:13]   Indexes and views recreated.
+[2026-07-17 16:39:13] STEP: Running data cleaning & EDA...
+[2026-07-17 16:39:30]   EDA completed successfully.
+[2026-07-17 16:39:30] STEP: Running forecasting model...
+[2026-07-17 16:39:38]   Forecasting completed successfully.
+[2026-07-17 16:39:38] PIPELINE RUN COMPLETE - all steps succeeded.

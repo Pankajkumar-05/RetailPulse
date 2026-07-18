@@ -1,0 +1,58 @@
+============================================================
+RETAILPULSE - DATA CLEANING & EDA REPORT
+============================================================
+
+Loaded fact_sales: 550,310 rows, 19 columns
+Loaded fact_inventory: 772,418 rows, 7 columns
+
+--- DATA QUALITY CHECKS ---
+Nulls in sales data:
+None found - clean
+Duplicate transaction_ids: 0
+Revenue outliers (IQR method): 77,345 rows (14.1%)
+  -> These are mostly high-value Electronics transactions - legitimate, not errors. Flagged, not removed.
+Non-positive quantity_sold: 0 | Non-positive revenue: 0
+
+--- EDA: KEY PATTERNS ---
+
+Revenue by category:
+category
+Electronics       5.229840e+09
+Home & Kitchen    8.521631e+08
+Apparel           7.000187e+08
+Personal Care     1.421174e+08
+Stationery        1.015585e+08
+Grocery           8.024135e+07
+Beverages         6.073204e+07
+Name: revenue, dtype: float64
+
+Revenue by region:
+region
+South      2.200921e+09
+East       1.539686e+09
+North      1.519681e+09
+West       9.751058e+08
+Central    9.312776e+08
+Name: revenue, dtype: float64
+
+Avg transaction value - Weekday vs Weekend:
+is_weekend
+0    12134.94
+1    14722.53
+Name: revenue, dtype: float64
+
+Total revenue - Non-festive vs Festive season:
+is_festive_season
+0    5.529529e+09
+1    1.637142e+09
+Name: revenue, dtype: float64
+
+Correlation (discount_pct vs quantity_sold): 0.001
+  -> Weak/near-zero correlation suggests discounting alone doesn't meaningfully drive volume in this data - worth flagging as a business insight: discounts may be eroding margin without a volume payoff.
+
+Charts saved to: /home/claude/RetailPulse/docs/charts
+
+Processed datasets exported to: /home/claude/RetailPulse/data/processed
+  - daily_sales_agg.csv   (for Power BI time-series visuals)
+  - store_summary.csv     (for store scorecard page)
+  - category_summary.csv  (for category/profitability page)

@@ -1,0 +1,596 @@
+product_id,product_name,category,unit_price,unit_cost,margin_pct,seasonality_type,supplier_id
+1,GROC-Themselves-1,Grocery,91.36,79.57,0.129,low,13
+2,GROC-Factor-2,Grocery,377.83,346.47,0.083,low,25
+3,GROC-Another-3,Grocery,331.22,298.1,0.1,low,10
+4,GROC-About-4,Grocery,198.21,174.42,0.12,low,3
+5,GROC-Goal-5,Grocery,396.68,353.44,0.109,low,18
+6,GROC-Spend-6,Grocery,137.51,120.87,0.121,low,23
+7,GROC-Case-7,Grocery,375.77,323.16,0.14,low,17
+8,GROC-Public-8,Grocery,287.95,249.94,0.132,low,3
+9,GROC-Everybody-9,Grocery,86.09,73.78,0.143,low,20
+10,GROC-Color-10,Grocery,339.26,304.66,0.102,low,19
+11,GROC-Site-11,Grocery,186.22,171.14,0.081,low,9
+12,GROC-Letter-12,Grocery,346.5,310.12,0.105,low,14
+13,GROC-Ok-13,Grocery,286.87,254.17,0.114,low,15
+14,GROC-Season-14,Grocery,79.15,72.34,0.086,low,12
+15,GROC-Late-15,Grocery,165.03,144.07,0.127,low,4
+16,GROC-Option-16,Grocery,381.17,329.71,0.135,low,7
+17,GROC-Act-17,Grocery,81.92,72.5,0.115,low,7
+18,GROC-Brother-18,Grocery,398.58,365.1,0.084,low,3
+19,GROC-Bag-19,Grocery,360.7,322.83,0.105,low,18
+20,GROC-You-20,Grocery,389.03,339.23,0.128,low,12
+21,GROC-Use-21,Grocery,353.4,304.28,0.139,low,14
+22,GROC-Rock-22,Grocery,295.34,270.24,0.085,low,18
+23,GROC-Well-23,Grocery,362.16,329.57,0.09,low,5
+24,GROC-Church-24,Grocery,131.63,115.7,0.121,low,13
+25,GROC-Offer-25,Grocery,179.72,155.1,0.137,low,7
+26,GROC-Also-26,Grocery,395.1,342.55,0.133,low,6
+27,GROC-They-27,Grocery,297.86,263.9,0.114,low,12
+28,GROC-Hope-28,Grocery,245.44,218.44,0.11,low,19
+29,GROC-Pass-29,Grocery,88.92,78.78,0.114,low,13
+30,GROC-Old-30,Grocery,191.82,168.8,0.12,low,20
+31,GROC-Choose-31,Grocery,91.59,83.53,0.088,low,9
+32,GROC-Law-32,Grocery,310.47,270.73,0.128,low,25
+33,GROC-Care-33,Grocery,181.2,163.08,0.1,low,24
+34,GROC-Analysis-34,Grocery,234.93,208.85,0.111,low,12
+35,GROC-Foot-35,Grocery,392.27,345.59,0.119,low,15
+36,GROC-His-36,Grocery,361.9,319.56,0.117,low,11
+37,GROC-Way-37,Grocery,371.69,335.26,0.098,low,19
+38,GROC-Worker-38,Grocery,389.26,343.72,0.117,low,9
+39,GROC-Style-39,Grocery,125.88,113.17,0.101,low,1
+40,GROC-Traditional-40,Grocery,269.65,237.02,0.121,low,16
+41,GROC-Among-41,Grocery,307.99,263.64,0.144,low,10
+42,GROC-Way-42,Grocery,382.64,328.31,0.142,low,12
+43,GROC-Help-43,Grocery,87.36,78.36,0.103,low,4
+44,GROC-Develop-44,Grocery,212.29,190.0,0.105,low,18
+45,GROC-Rest-45,Grocery,143.08,128.06,0.105,low,4
+46,GROC-Enjoy-46,Grocery,395.17,344.19,0.129,low,17
+47,GROC-Reflect-47,Grocery,147.92,131.8,0.109,low,13
+48,GROC-Board-48,Grocery,289.66,263.3,0.091,low,14
+49,GROC-Health-49,Grocery,76.67,65.48,0.146,low,19
+50,GROC-State-50,Grocery,304.0,266.61,0.123,low,2
+51,GROC-Opportunity-51,Grocery,78.96,67.83,0.141,low,13
+52,GROC-Usually-52,Grocery,107.69,95.95,0.109,low,22
+53,GROC-Two-53,Grocery,333.69,283.97,0.149,low,17
+54,GROC-Investment-54,Grocery,181.86,157.85,0.132,low,25
+55,GROC-Pressure-55,Grocery,389.47,335.33,0.139,low,13
+56,GROC-So-56,Grocery,72.23,66.23,0.083,low,1
+57,GROC-Clear-57,Grocery,54.79,50.13,0.085,low,17
+58,GROC-Wish-58,Grocery,237.02,205.73,0.132,low,3
+59,GROC-Wonder-59,Grocery,244.4,211.65,0.134,low,5
+60,GROC-Economic-60,Grocery,314.98,281.59,0.106,low,21
+61,GROC-Treatment-61,Grocery,207.69,189.21,0.089,low,19
+62,GROC-Commercial-62,Grocery,146.16,132.27,0.095,low,1
+63,GROC-Such-63,Grocery,285.1,250.03,0.123,low,8
+64,GROC-Talk-64,Grocery,57.76,51.12,0.115,low,22
+65,GROC-Cost-65,Grocery,320.31,283.15,0.116,low,12
+66,GROC-Upon-66,Grocery,335.74,286.05,0.148,low,25
+67,GROC-Itself-67,Grocery,256.48,227.24,0.114,low,23
+68,GROC-Ago-68,Grocery,314.3,275.64,0.123,low,2
+69,GROC-Country-69,Grocery,331.77,284.33,0.143,low,2
+70,GROC-Since-70,Grocery,172.71,151.81,0.121,low,15
+71,GROC-Window-71,Grocery,203.12,174.07,0.143,low,20
+72,GROC-Go-72,Grocery,241.61,214.55,0.112,low,15
+73,GROC-Stay-73,Grocery,188.79,165.38,0.124,low,19
+74,GROC-Word-74,Grocery,294.17,254.16,0.136,low,10
+75,GROC-Its-75,Grocery,374.31,331.64,0.114,low,20
+76,GROC-Suffer-76,Grocery,210.7,179.31,0.149,low,21
+77,GROC-Relationship-77,Grocery,171.59,155.29,0.095,low,11
+78,GROC-Treat-78,Grocery,134.05,122.66,0.085,low,25
+79,GROC-Simple-79,Grocery,211.04,185.5,0.121,low,11
+80,GROC-Talk-80,Grocery,98.59,86.27,0.125,low,8
+81,GROC-Energy-81,Grocery,293.78,261.76,0.109,low,3
+82,GROC-Example-82,Grocery,230.33,196.24,0.148,low,19
+83,GROC-Collection-83,Grocery,64.3,58.38,0.092,low,10
+84,GROC-Store-84,Grocery,111.95,102.32,0.086,low,1
+85,GROC-Science-85,Grocery,237.05,212.16,0.105,low,14
+86,ELEC-Box-86,Electronics,9615.33,8076.88,0.16,high_festive,13
+87,ELEC-Idea-87,Electronics,8582.3,7629.66,0.111,high_festive,15
+88,ELEC-Turn-88,Electronics,15995.19,14235.72,0.11,high_festive,11
+89,ELEC-American-89,Electronics,23085.11,20615.0,0.107,high_festive,4
+90,ELEC-Town-90,Electronics,20310.07,16451.16,0.19,high_festive,20
+91,ELEC-Many-91,Electronics,5866.25,5021.51,0.144,high_festive,22
+92,ELEC-Doctor-92,Electronics,6514.02,5269.84,0.191,high_festive,14
+93,ELEC-Decision-93,Electronics,11993.34,9714.61,0.19,high_festive,14
+94,ELEC-Technology-94,Electronics,4375.29,3867.76,0.116,high_festive,3
+95,ELEC-Why-95,Electronics,22464.01,18847.3,0.161,high_festive,15
+96,ELEC-Magazine-96,Electronics,1537.43,1223.79,0.204,high_festive,6
+97,ELEC-Hard-97,Electronics,13689.34,11923.42,0.129,high_festive,25
+98,ELEC-Focus-98,Electronics,18645.21,16370.49,0.122,high_festive,7
+99,ELEC-Tend-99,Electronics,8594.32,7520.03,0.125,high_festive,12
+100,ELEC-Stuff-100,Electronics,6443.84,5535.26,0.141,high_festive,25
+101,ELEC-Try-101,Electronics,17234.28,13873.6,0.195,high_festive,13
+102,ELEC-Drive-102,Electronics,12405.89,10296.89,0.17,high_festive,22
+103,ELEC-Dog-103,Electronics,15001.56,12166.27,0.189,high_festive,17
+104,ELEC-Agent-104,Electronics,14459.9,12363.21,0.145,high_festive,5
+105,ELEC-Receive-105,Electronics,9586.59,7880.18,0.178,high_festive,2
+106,ELEC-Data-106,Electronics,6713.35,5639.21,0.16,high_festive,6
+107,ELEC-Inside-107,Electronics,15459.75,13480.9,0.128,high_festive,22
+108,ELEC-Get-108,Electronics,6253.05,5352.61,0.144,high_festive,16
+109,ELEC-Family-109,Electronics,4688.49,4116.49,0.122,high_festive,24
+110,ELEC-Treatment-110,Electronics,22501.72,20026.53,0.11,high_festive,19
+111,ELEC-Available-111,Electronics,1241.47,1013.04,0.184,high_festive,24
+112,ELEC-Spring-112,Electronics,3511.34,2991.66,0.148,high_festive,11
+113,ELEC-Family-113,Electronics,21745.27,17439.71,0.198,high_festive,17
+114,ELEC-Have-114,Electronics,12676.12,10305.69,0.187,high_festive,25
+115,ELEC-Put-115,Electronics,18186.67,15204.06,0.164,high_festive,19
+116,ELEC-Mr-116,Electronics,21093.7,18456.99,0.125,high_festive,22
+117,ELEC-Instead-117,Electronics,18005.05,15772.42,0.124,high_festive,20
+118,ELEC-Respond-118,Electronics,6666.32,5906.36,0.114,high_festive,14
+119,ELEC-Threat-119,Electronics,7784.86,6461.43,0.17,high_festive,11
+120,ELEC-Not-120,Electronics,23354.75,20131.79,0.138,high_festive,3
+121,ELEC-Glass-121,Electronics,2054.13,1766.55,0.14,high_festive,10
+122,ELEC-Wrong-122,Electronics,14076.2,11739.55,0.166,high_festive,2
+123,ELEC-Ahead-123,Electronics,8600.96,6906.57,0.197,high_festive,1
+124,ELEC-Business-124,Electronics,4159.56,3743.6,0.1,high_festive,9
+125,ELEC-Understand-125,Electronics,15214.46,12825.79,0.157,high_festive,23
+126,ELEC-Every-126,Electronics,20021.8,17759.34,0.113,high_festive,5
+127,ELEC-Could-127,Electronics,20900.99,16386.38,0.216,high_festive,14
+128,ELEC-Partner-128,Electronics,23377.1,18257.52,0.219,high_festive,2
+129,ELEC-Evidence-129,Electronics,5185.84,4625.77,0.108,high_festive,8
+130,ELEC-American-130,Electronics,18262.64,16326.8,0.106,high_festive,8
+131,ELEC-Boy-131,Electronics,20836.17,16877.3,0.19,high_festive,3
+132,ELEC-Pick-132,Electronics,4775.23,3829.73,0.198,high_festive,14
+133,ELEC-Leader-133,Electronics,13458.18,11533.66,0.143,high_festive,13
+134,ELEC-Hair-134,Electronics,15037.02,12300.28,0.182,high_festive,8
+135,ELEC-Shoulder-135,Electronics,11427.06,9770.14,0.145,high_festive,19
+136,ELEC-Stop-136,Electronics,15903.26,13279.22,0.165,high_festive,15
+137,ELEC-Former-137,Electronics,14775.17,12662.32,0.143,high_festive,15
+138,ELEC-Least-138,Electronics,10090.17,8425.29,0.165,high_festive,8
+139,ELEC-Police-139,Electronics,6342.41,5295.91,0.165,high_festive,6
+140,ELEC-Much-140,Electronics,23543.94,19423.75,0.175,high_festive,8
+141,ELEC-Business-141,Electronics,17587.97,15477.41,0.12,high_festive,15
+142,ELEC-Image-142,Electronics,15805.76,13213.62,0.164,high_festive,7
+143,ELEC-We-143,Electronics,14670.25,11442.8,0.22,high_festive,25
+144,ELEC-Part-144,Electronics,8343.67,7258.99,0.13,high_festive,23
+145,ELEC-Customer-145,Electronics,4263.7,3730.74,0.125,high_festive,2
+146,ELEC-Environmental-146,Electronics,19251.5,15304.94,0.205,high_festive,1
+147,ELEC-Another-147,Electronics,3290.57,2750.92,0.164,high_festive,15
+148,ELEC-Section-148,Electronics,21284.15,18836.47,0.115,high_festive,24
+149,ELEC-Least-149,Electronics,12955.38,10817.74,0.165,high_festive,15
+150,ELEC-Ability-150,Electronics,10696.72,8632.25,0.193,high_festive,19
+151,ELEC-Nature-151,Electronics,17593.55,14690.61,0.165,high_festive,11
+152,ELEC-Wish-152,Electronics,15296.51,12252.5,0.199,high_festive,10
+153,ELEC-Sure-153,Electronics,9089.09,7934.78,0.127,high_festive,23
+154,ELEC-Nothing-154,Electronics,11980.54,9416.7,0.214,high_festive,12
+155,ELEC-Right-155,Electronics,22866.83,20191.41,0.117,high_festive,18
+156,ELEC-Serve-156,Electronics,15597.19,14006.28,0.102,high_festive,11
+157,ELEC-Yard-157,Electronics,23357.26,19433.24,0.168,high_festive,4
+158,ELEC-Site-158,Electronics,19920.05,17868.28,0.103,high_festive,10
+159,ELEC-Since-159,Electronics,19464.17,16641.87,0.145,high_festive,9
+160,ELEC-Religious-160,Electronics,11063.96,8983.94,0.188,high_festive,8
+161,ELEC-Debate-161,Electronics,21138.64,16720.66,0.209,high_festive,1
+162,ELEC-Himself-162,Electronics,3540.36,2768.56,0.218,high_festive,14
+163,ELEC-Lawyer-163,Electronics,5308.97,4247.18,0.2,high_festive,1
+164,ELEC-Available-164,Electronics,21851.49,18311.55,0.162,high_festive,8
+165,ELEC-Red-165,Electronics,15511.04,13246.43,0.146,high_festive,21
+166,ELEC-Wife-166,Electronics,8911.77,7165.06,0.196,high_festive,21
+167,ELEC-Give-167,Electronics,15410.06,13653.31,0.114,high_festive,20
+168,ELEC-Price-168,Electronics,13804.97,10905.93,0.21,high_festive,2
+169,ELEC-Former-169,Electronics,12069.94,10162.89,0.158,high_festive,17
+170,ELEC-Record-170,Electronics,15007.05,13446.32,0.104,high_festive,19
+171,APPA-Thus-171,Apparel,970.21,615.11,0.366,high_seasonal,20
+172,APPA-Capital-172,Apparel,1431.1,811.43,0.433,high_seasonal,17
+173,APPA-Service-173,Apparel,2407.34,1670.69,0.306,high_seasonal,18
+174,APPA-We-174,Apparel,2091.55,1493.37,0.286,high_seasonal,20
+175,APPA-First-175,Apparel,1539.27,983.59,0.361,high_seasonal,22
+176,APPA-Movement-176,Apparel,530.44,292.27,0.449,high_seasonal,17
+177,APPA-For-177,Apparel,1108.91,762.93,0.312,high_seasonal,23
+178,APPA-Reflect-178,Apparel,1452.33,856.87,0.41,high_seasonal,17
+179,APPA-Issue-179,Apparel,398.68,261.53,0.344,high_seasonal,8
+180,APPA-General-180,Apparel,1886.12,1303.31,0.309,high_seasonal,19
+181,APPA-Interesting-181,Apparel,1523.88,982.9,0.355,high_seasonal,17
+182,APPA-Same-182,Apparel,1382.06,881.75,0.362,high_seasonal,4
+183,APPA-Find-183,Apparel,791.21,457.32,0.422,high_seasonal,7
+184,APPA-Once-184,Apparel,2333.76,1624.3,0.304,high_seasonal,19
+185,APPA-Care-185,Apparel,2038.8,1361.92,0.332,high_seasonal,23
+186,APPA-Dark-186,Apparel,2943.11,1712.89,0.418,high_seasonal,7
+187,APPA-Kitchen-187,Apparel,2079.09,1548.92,0.255,high_seasonal,23
+188,APPA-Red-188,Apparel,985.5,700.69,0.289,high_seasonal,8
+189,APPA-Yard-189,Apparel,581.09,342.84,0.41,high_seasonal,3
+190,APPA-Hundred-190,Apparel,2696.14,1722.83,0.361,high_seasonal,8
+191,APPA-Research-191,Apparel,568.49,398.51,0.299,high_seasonal,14
+192,APPA-Smile-192,Apparel,1928.63,1135.96,0.411,high_seasonal,16
+193,APPA-Weight-193,Apparel,1372.4,845.4,0.384,high_seasonal,21
+194,APPA-Contain-194,Apparel,1397.26,957.12,0.315,high_seasonal,18
+195,APPA-Power-195,Apparel,335.11,245.64,0.267,high_seasonal,23
+196,APPA-Outside-196,Apparel,2589.95,1877.71,0.275,high_seasonal,19
+197,APPA-Fish-197,Apparel,1874.21,1248.22,0.334,high_seasonal,2
+198,APPA-Into-198,Apparel,2758.68,1724.17,0.375,high_seasonal,11
+199,APPA-Official-199,Apparel,1000.44,674.3,0.326,high_seasonal,23
+200,APPA-These-200,Apparel,392.42,229.17,0.416,high_seasonal,5
+201,APPA-A-201,Apparel,1405.41,899.46,0.36,high_seasonal,2
+202,APPA-Fly-202,Apparel,2624.88,1853.17,0.294,high_seasonal,22
+203,APPA-Few-203,Apparel,2405.35,1748.69,0.273,high_seasonal,24
+204,APPA-Develop-204,Apparel,2960.49,1942.08,0.344,high_seasonal,17
+205,APPA-Law-205,Apparel,1608.9,1042.57,0.352,high_seasonal,9
+206,APPA-Stock-206,Apparel,1762.41,1097.98,0.377,high_seasonal,7
+207,APPA-Particularly-207,Apparel,888.66,551.86,0.379,high_seasonal,14
+208,APPA-Policy-208,Apparel,2957.89,1907.84,0.355,high_seasonal,13
+209,APPA-Real-209,Apparel,2166.3,1327.94,0.387,high_seasonal,6
+210,APPA-Fund-210,Apparel,2768.61,2010.01,0.274,high_seasonal,4
+211,APPA-Make-211,Apparel,1644.85,1212.25,0.263,high_seasonal,5
+212,APPA-Letter-212,Apparel,2058.84,1202.36,0.416,high_seasonal,23
+213,APPA-Letter-213,Apparel,587.76,424.36,0.278,high_seasonal,25
+214,APPA-Republican-214,Apparel,1019.55,615.81,0.396,high_seasonal,2
+215,APPA-Different-215,Apparel,1921.4,1185.5,0.383,high_seasonal,7
+216,APPA-Much-216,Apparel,1847.89,1075.47,0.418,high_seasonal,21
+217,APPA-Material-217,Apparel,1334.47,862.07,0.354,high_seasonal,2
+218,APPA-Student-218,Apparel,748.97,450.88,0.398,high_seasonal,19
+219,APPA-Wear-219,Apparel,543.91,324.17,0.404,high_seasonal,21
+220,APPA-Style-220,Apparel,2560.11,1697.35,0.337,high_seasonal,4
+221,APPA-Simply-221,Apparel,2241.42,1548.82,0.309,high_seasonal,3
+222,APPA-Condition-222,Apparel,2863.13,1921.16,0.329,high_seasonal,24
+223,APPA-Reason-223,Apparel,2829.44,1706.15,0.397,high_seasonal,1
+224,APPA-Become-224,Apparel,1028.76,660.46,0.358,high_seasonal,19
+225,APPA-Federal-225,Apparel,1906.71,1410.97,0.26,high_seasonal,13
+226,APPA-Myself-226,Apparel,717.61,448.51,0.375,high_seasonal,2
+227,APPA-Record-227,Apparel,587.82,432.05,0.265,high_seasonal,17
+228,APPA-Property-228,Apparel,1414.54,861.45,0.391,high_seasonal,8
+229,APPA-President-229,Apparel,1474.03,1033.3,0.299,high_seasonal,3
+230,APPA-Government-230,Apparel,509.97,382.48,0.25,high_seasonal,19
+231,APPA-Better-231,Apparel,1034.79,653.99,0.368,high_seasonal,19
+232,APPA-Tell-232,Apparel,1149.41,677.0,0.411,high_seasonal,17
+233,APPA-Society-233,Apparel,669.41,374.87,0.44,high_seasonal,23
+234,APPA-Easy-234,Apparel,1707.51,1251.6,0.267,high_seasonal,16
+235,APPA-Remember-235,Apparel,2656.95,1604.8,0.396,high_seasonal,21
+236,APPA-Force-236,Apparel,2349.4,1421.39,0.395,high_seasonal,16
+237,APPA-Down-237,Apparel,2592.83,1814.98,0.3,high_seasonal,25
+238,APPA-Sure-238,Apparel,2046.0,1250.11,0.389,high_seasonal,9
+239,APPA-Decide-239,Apparel,2848.96,2113.93,0.258,high_seasonal,10
+240,APPA-Choice-240,Apparel,1888.31,1038.57,0.45,high_seasonal,21
+241,APPA-Ago-241,Apparel,1577.67,1083.86,0.313,high_seasonal,15
+242,APPA-Any-242,Apparel,2183.03,1508.47,0.309,high_seasonal,16
+243,APPA-Election-243,Apparel,611.26,407.1,0.334,high_seasonal,18
+244,APPA-May-244,Apparel,2311.67,1708.32,0.261,high_seasonal,3
+245,APPA-Popular-245,Apparel,1161.57,678.36,0.416,high_seasonal,17
+246,APPA-To-246,Apparel,2055.45,1391.54,0.323,high_seasonal,12
+247,APPA-Special-247,Apparel,625.53,459.76,0.265,high_seasonal,5
+248,APPA-Baby-248,Apparel,1731.72,1146.4,0.338,high_seasonal,23
+249,APPA-Lose-249,Apparel,476.46,327.33,0.313,high_seasonal,17
+250,APPA-Join-250,Apparel,1753.68,1083.77,0.382,high_seasonal,13
+251,APPA-Various-251,Apparel,1989.91,1140.22,0.427,high_seasonal,10
+252,APPA-Professional-252,Apparel,2667.0,1776.22,0.334,high_seasonal,3
+253,APPA-Parent-253,Apparel,2649.27,1976.36,0.254,high_seasonal,23
+254,APPA-Day-254,Apparel,800.78,538.92,0.327,high_seasonal,3
+255,APPA-Serious-255,Apparel,489.08,365.83,0.252,high_seasonal,17
+256,HOME-Same-256,Home & Kitchen,2129.27,1656.57,0.222,medium,25
+257,HOME-If-257,Home & Kitchen,2987.63,2416.99,0.191,medium,25
+258,HOME-Miss-258,Home & Kitchen,3887.71,3059.63,0.213,medium,7
+259,HOME-Instead-259,Home & Kitchen,2708.09,2003.99,0.26,medium,17
+260,HOME-Either-260,Home & Kitchen,730.28,582.03,0.203,medium,18
+261,HOME-Choose-261,Home & Kitchen,1622.28,1322.16,0.185,medium,25
+262,HOME-Reality-262,Home & Kitchen,1530.88,1091.52,0.287,medium,15
+263,HOME-Rise-263,Home & Kitchen,2253.31,1784.62,0.208,medium,24
+264,HOME-Accept-264,Home & Kitchen,797.3,563.69,0.293,medium,5
+265,HOME-Walk-265,Home & Kitchen,3974.46,3326.62,0.163,medium,6
+266,HOME-Social-266,Home & Kitchen,4915.19,3524.19,0.283,medium,24
+267,HOME-Traditional-267,Home & Kitchen,2443.53,1852.2,0.242,medium,25
+268,HOME-Speech-268,Home & Kitchen,3768.09,3165.2,0.16,medium,8
+269,HOME-Value-269,Home & Kitchen,4725.11,3558.01,0.247,medium,21
+270,HOME-Both-270,Home & Kitchen,4187.08,3483.65,0.168,medium,11
+271,HOME-Start-271,Home & Kitchen,1047.33,855.67,0.183,medium,17
+272,HOME-Large-272,Home & Kitchen,4794.9,3481.1,0.274,medium,5
+273,HOME-Discuss-273,Home & Kitchen,477.64,336.74,0.295,medium,17
+274,HOME-Control-274,Home & Kitchen,2687.65,2042.61,0.24,medium,17
+275,HOME-Summer-275,Home & Kitchen,1034.7,818.45,0.209,medium,18
+276,HOME-Safe-276,Home & Kitchen,2557.69,1792.94,0.299,medium,3
+277,HOME-National-277,Home & Kitchen,4116.0,3358.66,0.184,medium,24
+278,HOME-Majority-278,Home & Kitchen,3789.78,3202.36,0.155,medium,4
+279,HOME-Apply-279,Home & Kitchen,2984.41,2494.97,0.164,medium,9
+280,HOME-Onto-280,Home & Kitchen,2077.61,1680.79,0.191,medium,9
+281,HOME-Enjoy-281,Home & Kitchen,413.01,298.19,0.278,medium,10
+282,HOME-Whose-282,Home & Kitchen,4085.68,3072.43,0.248,medium,5
+283,HOME-Thus-283,Home & Kitchen,3729.02,3013.05,0.192,medium,15
+284,HOME-Campaign-284,Home & Kitchen,224.39,167.39,0.254,medium,16
+285,HOME-Loss-285,Home & Kitchen,2580.2,2162.21,0.162,medium,16
+286,HOME-Cell-286,Home & Kitchen,3479.64,2919.42,0.161,medium,17
+287,HOME-Suddenly-287,Home & Kitchen,495.28,355.61,0.282,medium,19
+288,HOME-Majority-288,Home & Kitchen,4158.47,3318.46,0.202,medium,2
+289,HOME-Region-289,Home & Kitchen,2810.14,2023.3,0.28,medium,1
+290,HOME-Nice-290,Home & Kitchen,4417.42,3224.72,0.27,medium,8
+291,HOME-Operation-291,Home & Kitchen,1377.37,1137.71,0.174,medium,16
+292,HOME-Physical-292,Home & Kitchen,3600.14,2606.5,0.276,medium,25
+293,HOME-Free-293,Home & Kitchen,4664.43,3890.13,0.166,medium,6
+294,HOME-Someone-294,Home & Kitchen,1108.26,795.73,0.282,medium,13
+295,HOME-Vote-295,Home & Kitchen,4384.85,3709.58,0.154,medium,23
+296,HOME-Level-296,Home & Kitchen,224.7,163.36,0.273,medium,21
+297,HOME-Position-297,Home & Kitchen,3768.84,3113.06,0.174,medium,4
+298,HOME-Teacher-298,Home & Kitchen,2869.67,2114.95,0.263,medium,12
+299,HOME-Serve-299,Home & Kitchen,230.65,186.13,0.193,medium,14
+300,HOME-Wait-300,Home & Kitchen,1766.88,1353.43,0.234,medium,8
+301,HOME-Mother-301,Home & Kitchen,1447.06,1092.53,0.245,medium,24
+302,HOME-Last-302,Home & Kitchen,4129.66,3431.75,0.169,medium,19
+303,HOME-Then-303,Home & Kitchen,3852.93,2962.9,0.231,medium,2
+304,HOME-What-304,Home & Kitchen,1840.99,1389.95,0.245,medium,5
+305,HOME-Official-305,Home & Kitchen,692.05,490.66,0.291,medium,4
+306,HOME-Like-306,Home & Kitchen,525.62,423.12,0.195,medium,17
+307,HOME-Watch-307,Home & Kitchen,3900.72,2902.14,0.256,medium,22
+308,HOME-Cold-308,Home & Kitchen,1860.24,1408.2,0.243,medium,18
+309,HOME-Six-309,Home & Kitchen,4383.38,3085.9,0.296,medium,12
+310,HOME-Training-310,Home & Kitchen,3798.33,3152.61,0.17,medium,12
+311,HOME-May-311,Home & Kitchen,318.02,269.36,0.153,medium,6
+312,HOME-Listen-312,Home & Kitchen,1984.8,1442.95,0.273,medium,11
+313,HOME-Event-313,Home & Kitchen,3479.82,2724.7,0.217,medium,14
+314,HOME-Society-314,Home & Kitchen,2448.99,1733.88,0.292,medium,3
+315,HOME-End-315,Home & Kitchen,2366.66,1952.49,0.175,medium,23
+316,HOME-Though-316,Home & Kitchen,4164.42,3352.36,0.195,medium,2
+317,HOME-Public-317,Home & Kitchen,3909.55,3186.28,0.185,medium,11
+318,HOME-Factor-318,Home & Kitchen,1511.65,1068.74,0.293,medium,12
+319,HOME-Space-319,Home & Kitchen,350.25,259.19,0.26,medium,15
+320,HOME-Star-320,Home & Kitchen,2214.69,1669.88,0.246,medium,6
+321,HOME-Near-321,Home & Kitchen,3848.45,3017.18,0.216,medium,1
+322,HOME-Memory-322,Home & Kitchen,1739.57,1289.02,0.259,medium,2
+323,HOME-Produce-323,Home & Kitchen,1222.9,1033.35,0.155,medium,25
+324,HOME-Edge-324,Home & Kitchen,3631.64,2781.84,0.234,medium,12
+325,HOME-Face-325,Home & Kitchen,2471.41,1742.34,0.295,medium,14
+326,HOME-Less-326,Home & Kitchen,1177.77,984.62,0.164,medium,8
+327,HOME-Bank-327,Home & Kitchen,3900.42,2820.0,0.277,medium,20
+328,HOME-Sell-328,Home & Kitchen,285.74,208.59,0.27,medium,12
+329,HOME-Feeling-329,Home & Kitchen,356.13,253.56,0.288,medium,3
+330,HOME-Easy-330,Home & Kitchen,1090.2,851.45,0.219,medium,14
+331,HOME-Expert-331,Home & Kitchen,3071.97,2331.63,0.241,medium,20
+332,HOME-Government-332,Home & Kitchen,2265.47,1857.69,0.18,medium,25
+333,HOME-Front-333,Home & Kitchen,971.96,730.91,0.248,medium,21
+334,HOME-Walk-334,Home & Kitchen,1491.17,1088.55,0.27,medium,11
+335,HOME-Now-335,Home & Kitchen,4924.89,4077.81,0.172,medium,21
+336,HOME-Be-336,Home & Kitchen,547.75,433.27,0.209,medium,14
+337,HOME-Certainly-337,Home & Kitchen,4878.56,3619.89,0.258,medium,11
+338,HOME-City-338,Home & Kitchen,3535.91,2549.39,0.279,medium,6
+339,HOME-During-339,Home & Kitchen,4557.53,3377.13,0.259,medium,19
+340,HOME-Identify-340,Home & Kitchen,703.66,572.78,0.186,medium,25
+341,PERS-Rule-341,Personal Care,478.18,381.11,0.203,low,22
+342,PERS-Claim-342,Personal Care,513.62,356.97,0.305,low,10
+343,PERS-Seat-343,Personal Care,631.85,416.39,0.341,low,1
+344,PERS-Difficult-344,Personal Care,438.28,344.93,0.213,low,13
+345,PERS-Attack-345,Personal Care,111.88,75.63,0.324,low,22
+346,PERS-Join-346,Personal Care,291.57,190.4,0.347,low,14
+347,PERS-Involve-347,Personal Care,569.9,385.82,0.323,low,10
+348,PERS-Give-348,Personal Care,175.61,137.68,0.216,low,11
+349,PERS-Occur-349,Personal Care,143.16,95.34,0.334,low,9
+350,PERS-Man-350,Personal Care,752.16,595.71,0.208,low,9
+351,PERS-Just-351,Personal Care,581.8,389.22,0.331,low,18
+352,PERS-Assume-352,Personal Care,518.98,353.94,0.318,low,15
+353,PERS-Design-353,Personal Care,661.12,520.96,0.212,low,20
+354,PERS-There-354,Personal Care,464.75,329.97,0.29,low,22
+355,PERS-Kitchen-355,Personal Care,389.24,273.64,0.297,low,9
+356,PERS-Improve-356,Personal Care,173.0,126.98,0.266,low,18
+357,PERS-West-357,Personal Care,95.26,72.68,0.237,low,13
+358,PERS-Speech-358,Personal Care,409.46,289.9,0.292,low,19
+359,PERS-Pattern-359,Personal Care,781.9,585.64,0.251,low,8
+360,PERS-Young-360,Personal Care,703.87,517.34,0.265,low,19
+361,PERS-Safe-361,Personal Care,171.25,136.49,0.203,low,19
+362,PERS-Again-362,Personal Care,221.34,144.09,0.349,low,9
+363,PERS-Tough-363,Personal Care,419.96,330.93,0.212,low,19
+364,PERS-Up-364,Personal Care,560.17,441.97,0.211,low,15
+365,PERS-Southern-365,Personal Care,243.26,177.82,0.269,low,21
+366,PERS-Parent-366,Personal Care,595.38,410.22,0.311,low,20
+367,PERS-Husband-367,Personal Care,521.57,359.88,0.31,low,20
+368,PERS-Me-368,Personal Care,428.63,308.18,0.281,low,19
+369,PERS-According-369,Personal Care,484.01,355.26,0.266,low,21
+370,PERS-Yes-370,Personal Care,346.64,245.77,0.291,low,15
+371,PERS-He-371,Personal Care,725.53,534.72,0.263,low,10
+372,PERS-Fire-372,Personal Care,794.1,601.13,0.243,low,12
+373,PERS-Some-373,Personal Care,337.89,246.66,0.27,low,21
+374,PERS-In-374,Personal Care,599.83,467.87,0.22,low,8
+375,PERS-Tonight-375,Personal Care,353.98,251.33,0.29,low,10
+376,PERS-Wait-376,Personal Care,228.16,149.22,0.346,low,23
+377,PERS-Thing-377,Personal Care,359.77,284.22,0.21,low,9
+378,PERS-Kind-378,Personal Care,235.42,157.5,0.331,low,15
+379,PERS-Nothing-379,Personal Care,494.69,352.71,0.287,low,20
+380,PERS-Small-380,Personal Care,494.71,383.4,0.225,low,25
+381,PERS-Simple-381,Personal Care,777.06,591.34,0.239,low,5
+382,PERS-Office-382,Personal Care,56.77,40.42,0.288,low,12
+383,PERS-Such-383,Personal Care,148.16,97.04,0.345,low,15
+384,PERS-Player-384,Personal Care,226.01,150.75,0.333,low,22
+385,PERS-Water-385,Personal Care,177.32,128.03,0.278,low,10
+386,PERS-Discussion-386,Personal Care,552.04,429.49,0.222,low,5
+387,PERS-Method-387,Personal Care,236.54,167.23,0.293,low,1
+388,PERS-Discuss-388,Personal Care,239.4,178.59,0.254,low,25
+389,PERS-Explain-389,Personal Care,504.15,376.1,0.254,low,12
+390,PERS-Least-390,Personal Care,405.97,273.22,0.327,low,12
+391,PERS-Mention-391,Personal Care,384.78,257.8,0.33,low,6
+392,PERS-Air-392,Personal Care,204.38,160.03,0.217,low,18
+393,PERS-Improve-393,Personal Care,790.02,617.8,0.218,low,5
+394,PERS-Great-394,Personal Care,752.45,597.45,0.206,low,23
+395,PERS-Relate-395,Personal Care,218.53,168.92,0.227,low,5
+396,PERS-Respond-396,Personal Care,127.48,90.77,0.288,low,12
+397,PERS-Success-397,Personal Care,161.26,105.14,0.348,low,24
+398,PERS-Interview-398,Personal Care,564.48,449.89,0.203,low,25
+399,PERS-Shake-399,Personal Care,529.34,354.66,0.33,low,24
+400,PERS-Company-400,Personal Care,436.7,317.48,0.273,low,12
+401,PERS-Though-401,Personal Care,449.18,350.81,0.219,low,13
+402,PERS-Manage-402,Personal Care,157.66,103.9,0.341,low,23
+403,PERS-Wide-403,Personal Care,171.79,132.62,0.228,low,23
+404,PERS-Care-404,Personal Care,554.45,406.41,0.267,low,5
+405,PERS-Prevent-405,Personal Care,772.51,588.65,0.238,low,1
+406,PERS-None-406,Personal Care,678.59,446.51,0.342,low,10
+407,PERS-Agreement-407,Personal Care,63.14,48.18,0.237,low,8
+408,PERS-What-408,Personal Care,698.46,478.45,0.315,low,8
+409,PERS-Indeed-409,Personal Care,646.63,428.07,0.338,low,1
+410,PERS-Person-410,Personal Care,211.76,148.44,0.299,low,21
+411,PERS-Organization-411,Personal Care,550.23,392.31,0.287,low,2
+412,PERS-Recognize-412,Personal Care,799.56,634.05,0.207,low,9
+413,PERS-Agreement-413,Personal Care,699.83,455.59,0.349,low,13
+414,PERS-Because-414,Personal Care,636.79,455.3,0.285,low,9
+415,PERS-Question-415,Personal Care,131.83,92.54,0.298,low,6
+416,PERS-Later-416,Personal Care,295.27,206.69,0.3,low,6
+417,PERS-Central-417,Personal Care,726.03,484.99,0.332,low,23
+418,PERS-Trial-418,Personal Care,376.69,255.02,0.323,low,24
+419,PERS-Main-419,Personal Care,272.65,191.67,0.297,low,21
+420,PERS-Court-420,Personal Care,293.44,218.61,0.255,low,7
+421,PERS-Apply-421,Personal Care,472.58,351.13,0.257,low,25
+422,PERS-Ever-422,Personal Care,497.36,357.1,0.282,low,3
+423,PERS-Hundred-423,Personal Care,220.45,173.94,0.211,low,3
+424,PERS-Generation-424,Personal Care,176.33,124.14,0.296,low,2
+425,PERS-Development-425,Personal Care,397.62,295.43,0.257,low,8
+426,BEVE-Look-426,Beverages,165.34,142.52,0.138,medium_summer,21
+427,BEVE-General-427,Beverages,247.85,220.83,0.109,medium_summer,5
+428,BEVE-Green-428,Beverages,131.67,112.45,0.146,medium_summer,12
+429,BEVE-Sort-429,Beverages,153.47,133.21,0.132,medium_summer,23
+430,BEVE-Until-430,Beverages,247.64,208.76,0.157,medium_summer,11
+431,BEVE-Hundred-431,Beverages,25.11,22.2,0.116,medium_summer,23
+432,BEVE-Fall-432,Beverages,271.08,242.35,0.106,medium_summer,15
+433,BEVE-Soldier-433,Beverages,88.18,72.84,0.174,medium_summer,15
+434,BEVE-Theory-434,Beverages,75.2,64.82,0.138,medium_summer,19
+435,BEVE-Know-435,Beverages,48.4,41.67,0.139,medium_summer,16
+436,BEVE-Entire-436,Beverages,166.46,140.83,0.154,medium_summer,15
+437,BEVE-They-437,Beverages,169.03,144.35,0.146,medium_summer,10
+438,BEVE-Beat-438,Beverages,190.89,160.92,0.157,medium_summer,17
+439,BEVE-Many-439,Beverages,293.48,244.76,0.166,medium_summer,11
+440,BEVE-After-440,Beverages,54.5,45.29,0.169,medium_summer,7
+441,BEVE-So-441,Beverages,167.05,140.82,0.157,medium_summer,24
+442,BEVE-Notice-442,Beverages,242.15,214.3,0.115,medium_summer,24
+443,BEVE-Area-443,Beverages,289.62,249.36,0.139,medium_summer,7
+444,BEVE-Hard-444,Beverages,248.41,216.12,0.13,medium_summer,13
+445,BEVE-Door-445,Beverages,197.28,162.56,0.176,medium_summer,23
+446,BEVE-Rate-446,Beverages,198.64,170.63,0.141,medium_summer,9
+447,BEVE-Authority-447,Beverages,242.25,205.43,0.152,medium_summer,24
+448,BEVE-Statement-448,Beverages,135.09,112.53,0.167,medium_summer,8
+449,BEVE-Reach-449,Beverages,235.58,201.42,0.145,medium_summer,5
+450,BEVE-Amount-450,Beverages,104.58,87.95,0.159,medium_summer,4
+451,BEVE-Somebody-451,Beverages,138.65,117.44,0.153,medium_summer,18
+452,BEVE-Allow-452,Beverages,234.66,208.38,0.112,medium_summer,23
+453,BEVE-End-453,Beverages,184.25,163.43,0.113,medium_summer,3
+454,BEVE-Decision-454,Beverages,263.39,227.04,0.138,medium_summer,21
+455,BEVE-Those-455,Beverages,46.8,42.03,0.102,medium_summer,15
+456,BEVE-Again-456,Beverages,84.47,74.67,0.116,medium_summer,11
+457,BEVE-Pretty-457,Beverages,84.95,73.82,0.131,medium_summer,25
+458,BEVE-Claim-458,Beverages,159.09,130.61,0.179,medium_summer,3
+459,BEVE-Edge-459,Beverages,187.17,158.35,0.154,medium_summer,10
+460,BEVE-Card-460,Beverages,139.9,117.94,0.157,medium_summer,17
+461,BEVE-Material-461,Beverages,24.43,21.33,0.127,medium_summer,14
+462,BEVE-Relationship-462,Beverages,49.15,41.38,0.158,medium_summer,10
+463,BEVE-Building-463,Beverages,273.55,229.23,0.162,medium_summer,4
+464,BEVE-Organization-464,Beverages,43.98,36.42,0.172,medium_summer,3
+465,BEVE-Yourself-465,Beverages,132.33,115.26,0.129,medium_summer,6
+466,BEVE-Discover-466,Beverages,119.4,106.74,0.106,medium_summer,17
+467,BEVE-Make-467,Beverages,252.92,213.97,0.154,medium_summer,12
+468,BEVE-Scene-468,Beverages,85.44,73.22,0.143,medium_summer,6
+469,BEVE-Establish-469,Beverages,185.99,157.35,0.154,medium_summer,12
+470,BEVE-Speak-470,Beverages,110.81,96.74,0.127,medium_summer,6
+471,BEVE-Home-471,Beverages,34.65,30.15,0.13,medium_summer,6
+472,BEVE-Computer-472,Beverages,176.18,148.34,0.158,medium_summer,20
+473,BEVE-Police-473,Beverages,36.84,31.5,0.145,medium_summer,4
+474,BEVE-Policy-474,Beverages,289.27,245.59,0.151,medium_summer,15
+475,BEVE-Small-475,Beverages,76.26,65.35,0.143,medium_summer,25
+476,BEVE-Serious-476,Beverages,250.11,225.1,0.1,medium_summer,16
+477,BEVE-Building-477,Beverages,206.18,172.37,0.164,medium_summer,16
+478,BEVE-Star-478,Beverages,127.11,113.13,0.11,medium_summer,19
+479,BEVE-Tell-479,Beverages,62.68,51.46,0.179,medium_summer,8
+480,BEVE-Common-480,Beverages,235.21,207.22,0.119,medium_summer,21
+481,BEVE-Foreign-481,Beverages,46.02,40.45,0.121,medium_summer,8
+482,BEVE-Box-482,Beverages,231.48,206.02,0.11,medium_summer,16
+483,BEVE-Particular-483,Beverages,161.91,143.61,0.113,medium_summer,14
+484,BEVE-Agree-484,Beverages,52.94,46.69,0.118,medium_summer,13
+485,BEVE-Woman-485,Beverages,120.84,107.91,0.107,medium_summer,25
+486,BEVE-Forget-486,Beverages,175.06,153.35,0.124,medium_summer,20
+487,BEVE-Parent-487,Beverages,98.32,81.11,0.175,medium_summer,18
+488,BEVE-Research-488,Beverages,164.39,135.79,0.174,medium_summer,11
+489,BEVE-Whatever-489,Beverages,180.88,154.65,0.145,medium_summer,20
+490,BEVE-How-490,Beverages,78.38,64.74,0.174,medium_summer,10
+491,BEVE-Industry-491,Beverages,171.13,145.46,0.15,medium_summer,24
+492,BEVE-Year-492,Beverages,169.09,142.37,0.158,medium_summer,3
+493,BEVE-Senior-493,Beverages,241.21,211.3,0.124,medium_summer,9
+494,BEVE-Decide-494,Beverages,110.31,99.06,0.102,medium_summer,2
+495,BEVE-Bag-495,Beverages,82.61,67.99,0.177,medium_summer,18
+496,BEVE-Person-496,Beverages,199.47,166.36,0.166,medium_summer,25
+497,BEVE-Rock-497,Beverages,154.22,134.94,0.125,medium_summer,14
+498,BEVE-Then-498,Beverages,58.98,48.84,0.172,medium_summer,14
+499,BEVE-Product-499,Beverages,68.95,59.3,0.14,medium_summer,9
+500,BEVE-Eight-500,Beverages,251.06,212.65,0.153,medium_summer,2
+501,BEVE-Blue-501,Beverages,39.09,35.1,0.102,medium_summer,25
+502,BEVE-Same-502,Beverages,85.11,76.09,0.106,medium_summer,12
+503,BEVE-Spring-503,Beverages,290.43,251.22,0.135,medium_summer,13
+504,BEVE-Fish-504,Beverages,282.21,234.23,0.17,medium_summer,6
+505,BEVE-To-505,Beverages,20.09,18.06,0.101,medium_summer,2
+506,BEVE-Return-506,Beverages,202.06,179.43,0.112,medium_summer,19
+507,BEVE-Plan-507,Beverages,178.04,157.57,0.115,medium_summer,25
+508,BEVE-Support-508,Beverages,36.29,29.76,0.18,medium_summer,24
+509,BEVE-Camera-509,Beverages,103.26,89.42,0.134,medium_summer,9
+510,BEVE-Style-510,Beverages,59.83,53.25,0.11,medium_summer,14
+511,STAT-Others-511,Stationery,59.51,46.48,0.219,high_back_to_school,1
+512,STAT-Stay-512,Stationery,259.62,194.72,0.25,high_back_to_school,17
+513,STAT-Analysis-513,Stationery,124.0,102.67,0.172,high_back_to_school,20
+514,STAT-Hand-514,Stationery,331.3,253.44,0.235,high_back_to_school,18
+515,STAT-No-515,Stationery,74.05,56.35,0.239,high_back_to_school,3
+516,STAT-Later-516,Stationery,190.2,153.87,0.191,high_back_to_school,14
+517,STAT-Recently-517,Stationery,96.67,78.4,0.189,high_back_to_school,5
+518,STAT-Hospital-518,Stationery,15.41,12.45,0.192,high_back_to_school,21
+519,STAT-Authority-519,Stationery,19.4,15.99,0.176,high_back_to_school,10
+520,STAT-Move-520,Stationery,343.68,285.6,0.169,high_back_to_school,5
+521,STAT-Raise-521,Stationery,115.45,98.02,0.151,high_back_to_school,18
+522,STAT-Growth-522,Stationery,318.36,264.24,0.17,high_back_to_school,5
+523,STAT-Actually-523,Stationery,480.19,384.63,0.199,high_back_to_school,3
+524,STAT-Time-524,Stationery,140.27,110.11,0.215,high_back_to_school,21
+525,STAT-Kitchen-525,Stationery,423.73,355.93,0.16,high_back_to_school,4
+526,STAT-Test-526,Stationery,433.68,358.22,0.174,high_back_to_school,18
+527,STAT-Might-527,Stationery,243.25,197.52,0.188,high_back_to_school,20
+528,STAT-Born-528,Stationery,431.19,349.7,0.189,high_back_to_school,10
+529,STAT-Lead-529,Stationery,447.12,337.13,0.246,high_back_to_school,17
+530,STAT-High-530,Stationery,332.76,251.57,0.244,high_back_to_school,2
+531,STAT-Prove-531,Stationery,224.43,185.15,0.175,high_back_to_school,10
+532,STAT-Vote-532,Stationery,465.86,384.33,0.175,high_back_to_school,8
+533,STAT-Them-533,Stationery,236.12,185.59,0.214,high_back_to_school,2
+534,STAT-Machine-534,Stationery,199.31,160.44,0.195,high_back_to_school,17
+535,STAT-Second-535,Stationery,310.83,262.03,0.157,high_back_to_school,24
+536,STAT-Claim-536,Stationery,442.41,371.18,0.161,high_back_to_school,12
+537,STAT-Learn-537,Stationery,260.99,204.09,0.218,high_back_to_school,13
+538,STAT-Control-538,Stationery,28.63,22.19,0.225,high_back_to_school,1
+539,STAT-Similar-539,Stationery,45.32,38.2,0.157,high_back_to_school,24
+540,STAT-Nearly-540,Stationery,27.43,21.92,0.201,high_back_to_school,8
+541,STAT-Rather-541,Stationery,183.09,150.13,0.18,high_back_to_school,11
+542,STAT-Expect-542,Stationery,485.67,367.17,0.244,high_back_to_school,19
+543,STAT-Power-543,Stationery,100.75,83.92,0.167,high_back_to_school,5
+544,STAT-System-544,Stationery,279.31,214.23,0.233,high_back_to_school,8
+545,STAT-Wide-545,Stationery,139.87,118.61,0.152,high_back_to_school,16
+546,STAT-Nothing-546,Stationery,484.25,397.09,0.18,high_back_to_school,8
+547,STAT-Stage-547,Stationery,316.09,256.67,0.188,high_back_to_school,18
+548,STAT-Member-548,Stationery,15.11,12.45,0.176,high_back_to_school,4
+549,STAT-Make-549,Stationery,389.57,306.2,0.214,high_back_to_school,23
+550,STAT-Least-550,Stationery,30.56,23.01,0.247,high_back_to_school,21
+551,STAT-That-551,Stationery,71.36,57.3,0.197,high_back_to_school,2
+552,STAT-Side-552,Stationery,304.92,241.5,0.208,high_back_to_school,16
+553,STAT-Person-553,Stationery,407.77,319.69,0.216,high_back_to_school,11
+554,STAT-Executive-554,Stationery,31.43,26.37,0.161,high_back_to_school,18
+555,STAT-Future-555,Stationery,120.06,97.61,0.187,high_back_to_school,14
+556,STAT-Together-556,Stationery,225.31,177.77,0.211,high_back_to_school,22
+557,STAT-Else-557,Stationery,144.16,109.13,0.243,high_back_to_school,12
+558,STAT-Then-558,Stationery,106.76,81.24,0.239,high_back_to_school,24
+559,STAT-Worry-559,Stationery,496.28,388.59,0.217,high_back_to_school,23
+560,STAT-Before-560,Stationery,440.84,363.25,0.176,high_back_to_school,15
+561,STAT-Family-561,Stationery,133.6,103.41,0.226,high_back_to_school,21
+562,STAT-Upon-562,Stationery,489.41,379.29,0.225,high_back_to_school,14
+563,STAT-Little-563,Stationery,390.46,306.12,0.216,high_back_to_school,11
+564,STAT-Either-564,Stationery,166.83,129.29,0.225,high_back_to_school,25
+565,STAT-Social-565,Stationery,469.32,397.04,0.154,high_back_to_school,18
+566,STAT-Majority-566,Stationery,62.89,49.12,0.219,high_back_to_school,20
+567,STAT-Over-567,Stationery,410.71,340.48,0.171,high_back_to_school,19
+568,STAT-Poor-568,Stationery,83.83,68.41,0.184,high_back_to_school,22
+569,STAT-Relate-569,Stationery,275.7,218.08,0.209,high_back_to_school,24
+570,STAT-Hundred-570,Stationery,309.85,259.96,0.161,high_back_to_school,23
+571,STAT-Great-571,Stationery,347.55,265.18,0.237,high_back_to_school,15
+572,STAT-Air-572,Stationery,439.8,354.92,0.193,high_back_to_school,8
+573,STAT-Miss-573,Stationery,236.16,200.5,0.151,high_back_to_school,1
+574,STAT-Today-574,Stationery,373.44,284.56,0.238,high_back_to_school,4
+575,STAT-Garden-575,Stationery,58.6,47.47,0.19,high_back_to_school,10
+576,STAT-Court-576,Stationery,332.2,272.07,0.181,high_back_to_school,21
+577,STAT-Method-577,Stationery,369.2,290.93,0.212,high_back_to_school,2
+578,STAT-Difference-578,Stationery,184.14,142.16,0.228,high_back_to_school,20
+579,STAT-Hear-579,Stationery,266.84,204.13,0.235,high_back_to_school,22
+580,STAT-Subject-580,Stationery,418.01,354.89,0.151,high_back_to_school,25
+581,STAT-Evening-581,Stationery,479.46,389.8,0.187,high_back_to_school,11
+582,STAT-Grow-582,Stationery,380.57,291.52,0.234,high_back_to_school,6
+583,STAT-Far-583,Stationery,439.56,329.67,0.25,high_back_to_school,4
+584,STAT-Up-584,Stationery,198.83,156.28,0.214,high_back_to_school,10
+585,STAT-Pick-585,Stationery,444.24,351.39,0.209,high_back_to_school,5
+586,STAT-Science-586,Stationery,334.89,284.66,0.15,high_back_to_school,7
+587,STAT-Up-587,Stationery,11.58,9.13,0.212,high_back_to_school,4
+588,STAT-Fact-588,Stationery,98.85,80.17,0.189,high_back_to_school,17
+589,STAT-Only-589,Stationery,298.22,239.17,0.198,high_back_to_school,14
+590,STAT-Action-590,Stationery,364.47,306.15,0.16,high_back_to_school,23
+591,STAT-Nation-591,Stationery,354.44,299.5,0.155,high_back_to_school,24
+592,STAT-Yourself-592,Stationery,341.47,262.93,0.23,high_back_to_school,19
+593,STAT-Cut-593,Stationery,254.15,213.99,0.158,high_back_to_school,22
+594,STAT-Bed-594,Stationery,350.75,271.83,0.225,high_back_to_school,6
+595,STAT-Effort-595,Stationery,112.82,86.53,0.233,high_back_to_school,19
