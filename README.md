@@ -89,7 +89,6 @@ RetailPulse/
 │   └── build_workbook_part2.py
 ├── powerbi/                          
 └── docs/
-    ├── powerbi_build_guide.md        # step-by-step Power BI build instructions
     ├── eda_summary.txt               # data quality + EDA findings
     ├── forecast_accuracy.txt         # MAPE scores by category
     ├── pipeline_run_log.txt          # sample automation run log
