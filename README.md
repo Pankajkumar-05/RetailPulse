@@ -87,7 +87,7 @@ RetailPulse/
 │   ├── RetailPulse_Validation_Report.xlsx   # 5-sheet formula-driven workbook
 │   ├── build_workbook_part1.py
 │   └── build_workbook_part2.py
-├── powerbi/                          # (add your .pbix here after following the guide)
+├── powerbi/                          
 └── docs/
     ├── powerbi_build_guide.md        # step-by-step Power BI build instructions
     ├── eda_summary.txt               # data quality + EDA findings
@@ -131,7 +131,7 @@ python automation_pipeline.py
 # excel/RetailPulse_Validation_Report.xlsx — all formulas live, recalculates automatically
 ```
 
-> **GitHub file size note**: `retailpulse.db` is ~106MB, right at GitHub's 100MB hard limit for a single file — it may be rejected on push. Recommended: add `retailpulse.db` to `.gitignore` (already prepared, just uncomment the line) and instead include the two-line rebuild command above (`data_generation.py` + `automation_pipeline.py`) in your README, which regenerates the full database locally in under a minute. This is also a better portfolio signal — it shows the DB is reproducible from source, not just a static file you're hosting.
+> **Note:** The SQLite database (`retailpulse.db`) is not included in this repository because of GitHub's file size limits. It can be regenerated locally using the provided Python scripts.
 
 ---
 
